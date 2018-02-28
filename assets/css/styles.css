@@ -1,0 +1,304 @@
+/*-------------
+ 	General
+-------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font: normal 16px sans-serif;
+    color: #555;
+}
+ul,
+nav {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    opacity: 0.9;
+}
+a:hover {
+    opacity: 1;
+}
+a.btn {
+    color: #fff;
+    border-radius: 4px;
+    text-transform: uppercase;
+    background-color: #2196F3;
+    font-weight: 800;
+    text-align: center;
+}
+hr {
+    width: 150px;
+    height: 2px;
+    background-color: #2196F3;
+    border: 0;
+    margin-bottom: 80px;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 125px 100px;
+}
+@media (max-width: 1000px) {
+    section {
+        padding: 100px 50px;
+    }
+}
+@media (max-width: 600px) {
+    section {
+        padding: 80px 30px;
+    }
+}
+section h3.title {
+    color: #414a4f;
+    text-transform: capitalize;
+    font: bold 32px 'Open Sans', sans-serif;
+    margin-bottom: 35px;
+    text-align: center;
+}
+section p {
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 35px;
+    padding: 0 20px;
+    line-height: 2;
+}
+ul.grid {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/*-------------
+ 	Header
+-------------*/
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding: 35px 100px 0;
+}
+header h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 48px;
+}
+header nav {
+    display: flex;
+}
+header nav li {
+    margin: 0 15px;
+    font-size: 16px;
+}
+header nav li:first-child {
+    margin-left: 0;
+}
+header nav li:last-child {
+    margin-right: 0;
+}
+@media (max-width: 1000px) {
+    header {
+        padding: 20px 50px;
+    }
+}
+@media (max-width: 700px) {
+    header {
+        flex-direction: column;
+    }
+    header h2 {
+        margin-bottom: 15px;
+    }
+}
+/*----------------
+ 	Hero Section
+----------------*/
+
+.ice {
+    position: relative;
+    justify-content: center;
+    min-height: 100vh;
+    color: #fff;
+    text-align: center;
+}
+.ice .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://raw.githubusercontent.com/AmusingThrone/cpb/master/assets/img/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #1755b7;
+    z-index: -1;
+}
+.ice .background-image:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #414a4f;
+    opacity: 0.40;
+}
+.ice h1 {
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+}
+.ice h2 {
+    font: normal bold 48px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+}
+.ice h3 {
+    font: normal 28px 'Open Sans', sans-serif;
+    margin-bottom: 40px;
+}
+.ice a.btn {
+    padding: 20px 46px;
+}
+.ice input::-webkit-input-placeholder {
+    color: #d6d6d6;
+}
+.ice input:-moz-placeholder {
+    color: #d6d6d6;
+}
+.ice input,
+.ice textarea,
+.ice select {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    color: #d6d6d6;
+    height: 45px;
+}
+.ice textarea {
+    resize: none;
+    overflow: hidden;
+}
+.ice input[type="button"],
+.ice input[type="submit"] {
+    -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    background-color: #2CBBBB;
+    border: 1px solid #27A0A0;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.ice input[type="button"]:hover,
+.ice input[type="submit"]:hover {
+    background: linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
+    background-color: #34CACA;
+}
+media (max-width: 800px) {
+    .ice {
+        min-height: 600px;
+    }
+    .ice h1 {
+        font-size: 48px;
+    }
+    .ice h2 {
+        font-size: 36px;
+    }
+    .ice h3 {
+        font-size: 24px;
+    }
+    .ice a.btn {
+        padding: 15px 40px;
+    }
+}
+@media (max-width: 600px) {
+    .ice .background-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url("https://raw.githubusercontent.com/AmusingThrone/cpb/master/assets/img/bg-mobile.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-color: #1755b7;
+        z-index: -1;
+    }
+}
+/*-------------
+ 	Game
+-------------*/
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 58%;
+    padding-top: 0;
+    height: 0;
+}
+/*-------------
+ 	Footer
+-------------*/
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    background-color: #414a4f;
+    padding: 60px 0;
+}
+footer ul {
+    display: flex;
+    margin-bottom: 25px;
+    font-size: 32px;
+}
+footer ul li {
+    margin: 0 8px;
+}
+footer ul li:first-child {
+    margin-left: 0;
+}
+footer ul li:last-child {
+    margin-right: 0;
+}
+footer p {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 10px;
+}
+footer p a {
+    color: #fff;
+}
+@media (max-width: 700px) {
+    footer {
+        padding: 80px 15px;
+    }
+}

@@ -1,0 +1,7 @@
+<flash_project name="~game" version="1">
+	<project_file filetype="fla" path="http://playpenguinisland.ddns.net/play/games/mancala/~game.fla" profile=""/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mancala/com/clubpenguin/util/LocaleText.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mancala/mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mancala/com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mancala/com/clubpenguin/util/Loader.as"/>
+</flash_project>

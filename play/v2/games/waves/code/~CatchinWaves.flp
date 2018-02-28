@@ -1,0 +1,10 @@
+<flash_project name="~CatchinWaves" version="1">
+	<project_file filetype="fla" path="./~CatchinWaves.fla" profile=""/>
+	<project_file filetype="as" path="./com/clubpenguin/util/LocaleText.as"/>
+	<project_file filetype="as" path="./mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="./com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="./com/clubpenguin/util/Loader.as"/>
+	<project_file filetype="as" path="./com/clubpenguin/text/TextResize.as"/>
+	<project_file filetype="as" path="./com/clubpenguin/security/Domains.as"/>
+	<project_file filetype="as" path="./com/clubpenguin/util/Stamp.as"/>
+</flash_project>

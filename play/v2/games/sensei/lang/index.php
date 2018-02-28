@@ -1,0 +1,5 @@
+<?php
+
+$author = "Zaseth";
+
+?>

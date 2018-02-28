@@ -1,0 +1,21 @@
+<content>
+	
+	<!-- Not sure what gameID is or how it was generated, we copied this from the Scorn Battle 9988776655 -->
+	<gameID>9988776655</gameID>
+	<gameLinkage></gameLinkage>
+	<gameClass>SneakMain</gameClass>
+
+	<!--	
+	<gameLocale>
+		en
+	</gameLocale> 
+	-->
+
+	<gameConfig>
+		SneakConfig.xml
+	</gameConfig>
+	
+	<gameAssets>
+	</gameAssets>
+	
+</content>

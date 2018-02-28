@@ -1,0 +1,1 @@
+FileCopy, C:\xampp\htdocs\php.ini, C:\xampp\php, 1

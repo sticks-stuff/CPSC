@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Play | CPSC</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="description" content="CPPS">
+    <meta name="keywords" content="cpps,ice,club penguin,free,theme, cpb">
+    <meta name="author" content="Theme-AmusingThrone CPPS-VortexHD">
+</head>
+
+<body>
+
+    <header>
+        <h1><a href="#">Club Penguin Speedrunning Client</a></h1>
+        <nav>
+            <li><a href="/">Home</a></li>
+            <li><a href="/register/">Register</a></li>
+            <li><a href="/play/">Play</a></li>
+        </nav>
+    </header>
+
+    <section class="ice">
+        <div class="background-image"></div>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+            <script type="text/javascript">
+                var swfUrl = "load.swf";
+                var swfID = "scene";
+                var swfWidth = "1472";
+                var swfHeight = "1035";
+                var swfVersion = "6.9.4.2.0";
+                var allowExpressInstall = false;
+                var flashVars = {};
+                var params = {
+                    menu: "false",
+                    quality: "high",
+                    allowscriptaccess: "always",
+                    wmode: "opaque",
+                    salign: "t"
+                };
+                var attributes = {
+                    id: swfID,
+                    name: swfID
+                };
+                swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+            </script>
+            <!-- div shit fix -->
+            <div id="sceneCont">
+                <div id="scene"></div>
+            </div>
+    </section>
+	
+    <footer>
+        <ul>
+            <li><a href="#" target="_blank"><i class="fa fa-rss-square"></i></a></li>
+            <li><a href="https://twitter.com/amusingthrone" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+            <li><a href="https://github.com/amusingthrone" target="_blank"><i class="fa fa-github-square"></i></a></li>
+        </ul>
+        <p>By Thestickman391</a>.</p>
+        <p>Theme by <a href="http://amusingthrone.com" target="_blank">AmusingThrone</a>.</p>
+        <p>&copy; 2017 CPPS.</p>
+    </footer>
+
+</body>
+
+</html>

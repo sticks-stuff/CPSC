@@ -1,0 +1,17 @@
+<flash_project name="~MixMaster" version="1">
+	<project_file filetype="fla" path="http://playpenguinisland.ddns.net/play/games/mixmaster/~MixMaster.fla" profile=""/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/Delegate.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/LocaleText.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/Loader.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/text/TextResize.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/games/generic/GenericGameEngine.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/disney/dlearning/debug/DLSLocalConnectionProducer.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/SoundControl.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/disney/dlearning/games/mixmaster/DlsMixMaster.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/util/SoundControlBeatbox.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/games/generic/UserInput.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/games/beatbox/UserInputBeatbox.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/mixmaster/com/clubpenguin/games/beatbox/GameEngine.as"/>
+</flash_project>

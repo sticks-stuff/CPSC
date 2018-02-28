@@ -1,0 +1,8 @@
+<flash_project name="~bootstrap" version="1">
+	<project_file filetype="fla" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/~bootstrap.fla" profile=""/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/com/clubpenguin/util/Loader.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/com/clubpenguin/text/TextResize.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2/games/rescue/com/clubpenguin/util/LocaleText.as"/>
+</flash_project>

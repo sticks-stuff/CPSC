@@ -1,0 +1,8 @@
+<flash_project name="~game" version="1">
+	<project_file filetype="fla" path="./~game.fla" profile=""/>
+	<project_file filetype="as" path=".http://playpenguinisland.ddns.net/play/v2\games\four\com\clubpenguin\util\LocaleText.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2\games\four\mx\eventsEventDispatcher.as"/>
+	<project_file filetype="as" path=".http://playpenguinisland.ddns.net/play/v2\games\four\com\clubpenguin\util\Reporting.as"/>
+	<project_file filetype="as" path=".http://playpenguinisland.ddns.net/play/v2\games\four\com\clubpenguin\util\Loader.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/v2\games\four\com\clubpenguin\text\TextResize.as"/>
+</flash_project>

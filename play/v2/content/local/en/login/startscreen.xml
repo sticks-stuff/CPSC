@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- EN -->
+<startscreen>
+	
+	<backgrounds>
+		<!-- in constant rotation -->
+
+		<background>
+			<url>discord.swf</url>
+			<probability>100</probability>
+			<nolink/>
+		</background>		
+		
+
+		<!-- /constant rotation -->		
+		
+
+		<!-- external linking content -->		
+				
+		
+		<!-- /external linking content -->
+		
+	</backgrounds>
+	
+	<messages>
+		<message>
+			<title>faulheit is gay lol</title>
+			<icon>blog.swf</icon>
+			<content type='url'>http://localhost/blog</content>
+		</message>
+	</messages>
+
+</startscreen>

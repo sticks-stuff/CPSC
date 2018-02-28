@@ -1,0 +1,21 @@
+<content>
+	
+	<!-- Not sure what gameID is or how it was generated, we copied this from the Scorn Battle 9988776655 -->
+	<gameID>9988776655</gameID>
+	<gameLinkage></gameLinkage>
+	<gameClass>com.clubpenguin.games.soccer.SoccerEngine</gameClass>
+
+	<!--	
+	<gameLocale>
+		en
+	</gameLocale> 
+	-->
+
+	<gameConfig>
+		SoccerGameConfig.xml
+	</gameConfig>
+<!--	
+	<gameAssets>
+	</gameAssets>
+-->	
+</content>

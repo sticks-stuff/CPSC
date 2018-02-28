@@ -1,0 +1,8 @@
+<flash_project name="~bootstrap" version="1">
+	<project_file filetype="fla" path="http://playpenguinisland.ddns.net/play/games/pizzatron/~bootstrap.fla" profile=""/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/pizzatron/mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/pizzatron/com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/pizzatron/com/clubpenguin/util/Loader.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/pizzatron/com/clubpenguin/text/TextResize.as"/>
+	<project_file filetype="as" path="http://playpenguinisland.ddns.net/play/games/pizzatron/com/clubpenguin/util/LocaleText.as"/>
+</flash_project>

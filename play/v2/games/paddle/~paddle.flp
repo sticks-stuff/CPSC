@@ -1,0 +1,10 @@
+<flash_project name="~paddle" version="1">
+	<project_file filetype="fla" path="http://5.46.56.215/play/games/paddle/~paddle.fla" profile=""/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/security/Security.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/util/Reporting.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/security/Domains.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/util/Loader.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/util/LocaleText.as"/>
+	<project_file filetype="as" path="http://5.46.56.215/play/games/paddle/com/clubpenguin/text/TextResize.as"/>
+</flash_project>
