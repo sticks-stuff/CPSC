@@ -2381,3 +2381,85 @@
 00:41:50 [Notice] > 127.0.0.1
 00:41:50 [Notice] > Player disconnected
 00:42:19 [Notice] > jamioe is attempting to login
+00:25:33 [Notice] > Player disconnected
+00:25:33 [Notice] > jamioe is attempting to login
+00:25:34 [Notice] > New client connected from: 
+00:25:34 [Notice] > 127.0.0.1
+00:25:34 [Notice] > Player disconnected
+00:25:39 [Notice] > jamioe is attempting to login
+00:27:11 [Notice] > Player disconnected
+00:27:11 [Notice] > jamioe is attempting to login
+00:27:12 [Notice] > New client connected from: 
+00:27:12 [Notice] > 127.0.0.1
+00:27:12 [Notice] > Player disconnected
+00:27:17 [Notice] > jamioe is attempting to login
+00:31:32 [Notice] > Player disconnected
+00:31:33 [Notice] > jamioe is attempting to login
+00:31:33 [Notice] > New client connected from: 
+00:31:33 [Notice] > 127.0.0.1
+00:31:34 [Notice] > Player disconnected
+00:31:39 [Notice] > jamioe is attempting to login
+00:36:38 [Notice] > Player disconnected
+00:36:39 [Notice] > jamioe is attempting to login
+00:36:39 [Notice] > New client connected from: 
+00:36:39 [Notice] > 127.0.0.1
+00:36:40 [Notice] > Player disconnected
+00:36:45 [Notice] > jamioe is attempting to login
+00:37:21 [Notice] > Player disconnected
+00:37:22 [Notice] > jamioe is attempting to login
+00:37:22 [Notice] > New client connected from: 
+00:37:22 [Notice] > 127.0.0.1
+00:37:23 [Notice] > Player disconnected
+00:41:17 [Notice] > Player disconnected
+00:41:18 [Notice] > jamioe is attempting to login
+00:41:18 [Notice] > New client connected from: 
+00:41:18 [Notice] > 127.0.0.1
+00:41:19 [Notice] > Player disconnected
+00:41:24 [Notice] > jamioe is attempting to login
+00:59:06 [Notice] > Player disconnected
+00:59:07 [Notice] > jamioe is attempting to login
+00:59:07 [Notice] > New client connected from: 
+00:59:07 [Notice] > 127.0.0.1
+00:59:08 [Notice] > Player disconnected
+00:59:13 [Notice] > jamioe is attempting to login
+01:00:44 [Notice] > Player disconnected
+01:00:45 [Notice] > test is attempting to login
+01:00:45 [Notice] > Player disconnected
+01:00:49 [Notice] > testy is attempting to login
+01:00:49 [Notice] > Player disconnected
+01:01:15 [Notice] > Player disconnected
+01:01:16 [Notice] > u are a gay is attempting to login
+01:01:16 [Notice] > New client connected from: 
+01:01:16 [Notice] > 127.0.0.1
+01:01:17 [Notice] > Player disconnected
+01:01:22 [Notice] > u are a gay is attempting to login
+01:20:49 [Notice] > Player disconnected
+01:20:49 [Notice] > jamioe is attempting to login
+01:20:50 [Notice] > New client connected from: 
+01:20:50 [Notice] > 127.0.0.1
+01:20:50 [Notice] > Player disconnected
+01:20:55 [Notice] > jamioe is attempting to login
+01:32:21 [Notice] > Player disconnected
+01:32:22 [Notice] > jamioe is attempting to login
+01:32:23 [Notice] > New client connected from: 
+01:32:23 [Notice] > 127.0.0.1
+01:32:23 [Notice] > Player disconnected
+01:32:28 [Notice] > jamioe is attempting to login
+01:50:42 [Notice] > Player disconnected
+01:50:43 [Notice] > jamioe is attempting to login
+01:50:43 [Notice] > New client connected from: 
+01:50:43 [Notice] > 127.0.0.1
+01:50:44 [Notice] > Player disconnected
+01:50:54 [Notice] > jamioe is attempting to login
+01:52:15 [Notice] > Player disconnected
+01:52:15 [Notice] > jamioe is attempting to login
+01:52:16 [Notice] > New client connected from: 
+01:52:16 [Notice] > 127.0.0.1
+01:52:16 [Notice] > Player disconnected
+01:52:21 [Notice] > jamioe is attempting to login
+01:53:54 [Notice] > Player disconnected
+01:53:55 [Notice] > jamioe is attempting to login
+01:53:56 [Notice] > New client connected from: 
+01:53:56 [Notice] > 127.0.0.1
+01:53:56 [Notice] > Player disconnected
+01:54:01 [Notice] > jamioe is attempting to login
