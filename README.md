@@ -1,4 +1,3 @@
-@@ -1 +1,28 @@
 # CPSC
 Club Penguin Singleplayer Client Beta 2
 
