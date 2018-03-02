@@ -42440,3 +42440,1921 @@
 01:57:01 [Debug] > Outgoing: %xt%h%6%
 01:58:01 [Debug] > Received %xt%s%u#h%6% from IP: 127.0.0.1
 01:58:01 [Debug] > Outgoing: %xt%h%6%
+01:59:01 [Debug] > Received %xt%s%u#h%6% from IP: 127.0.0.1
+01:59:01 [Debug] > Outgoing: %xt%h%6%
+01:59:50 [Debug] > Removing penguino
+01:59:50 [Debug] > Penguino found! Removing
+19:04:19 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:04:19 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:04:19 [Debug] > Removing penguino
+19:04:19 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:04:19 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:04:20 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:04:20 [Debug] > 
+19:04:20 [Debug] > e4a2dbcca10a7246817a83cd
+19:04:20 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:04:20 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:04:20 [Debug] > Adding penguino
+19:04:20 [Debug] > New database created
+19:04:21 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:04:21 [Debug] > Removing penguino
+19:04:21 [Debug] > Penguino found! Removing
+19:04:25 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:04:25 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:04:26 [Debug] > Removing penguino
+19:04:26 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:04:26 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:04:26 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:04:26 [Debug] > 
+19:04:26 [Debug] > e4a2dbcca10a7246817a83cd
+19:04:26 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:04:26 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:04:26 [Debug] > Adding penguino
+19:04:26 [Debug] > New database created
+19:04:26 [Debug] > Outgoing: %xt%l%-1%
+19:04:26 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:04:26 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:04:27 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:04:27 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82%
+19:04:27 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43027%0%1440%1519959867%6%0%324%%7%%1%0%211843%
+19:04:27 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:04:27 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:04:27 [Debug] > Outgoing: %xt%mg%-1%%
+19:04:27 [Debug] > Outgoing: %xt%jr%47%808%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:27 [Debug] > Outgoing: %xt%ap%47%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:27 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:04:27 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+19:04:27 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:04:27 [Debug] > Outgoing: %xt%gb%47%
+19:04:27 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:04:27 [Debug] > Outgoing: %xt%gn%47%
+19:04:28 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%mst%-1%0%18%
+19:04:28 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+19:04:28 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%pgu%47%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+19:04:28 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:04:28 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:04:28 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:04:28 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:04:28 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:04:28 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:29 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:04:29 [Debug] > Received %xt%s%u#sp%47%74%430% from IP: 127.0.0.1
+19:04:29 [Debug] > Outgoing: %xt%sp%47%2%74%430%
+19:04:29 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:04:29 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:04:30 [Debug] > Received %xt%s%j#jr%47%200%0%0% from IP: 127.0.0.1
+19:04:30 [Debug] > Outgoing: %xt%jr%8%200%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:30 [Debug] > Outgoing: %xt%ap%8%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:30 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:30 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:04:30 [Debug] > Received %xt%s%u#sp%8%613%261% from IP: 127.0.0.1
+19:04:30 [Debug] > Outgoing: %xt%sp%8%2%613%261%
+19:04:31 [Debug] > Received %xt%s%u#sp%8%670%240% from IP: 127.0.0.1
+19:04:31 [Debug] > Outgoing: %xt%sp%8%2%670%240%
+19:04:32 [Debug] > Received %xt%s%j#jr%8%210%500%280% from IP: 127.0.0.1
+19:04:32 [Debug] > Outgoing: %xt%jr%9%210%2|jamioe|45|15|0|104|0|4034|0|0|0|0|500|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:32 [Debug] > Outgoing: %xt%ap%9%2|jamioe|45|15|0|104|0|4034|0|0|0|0|500|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:33 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:33 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:04:34 [Debug] > Received %xt%s%u#sp%9%237%251% from IP: 127.0.0.1
+19:04:34 [Debug] > Outgoing: %xt%sp%9%2%237%251%
+19:04:34 [Debug] > Received %xt%s%u#sp%9%230%270% from IP: 127.0.0.1
+19:04:34 [Debug] > Outgoing: %xt%sp%9%2%230%270%
+19:04:34 [Debug] > Received %xt%s%u#sp%9%230%270% from IP: 127.0.0.1
+19:04:34 [Debug] > Outgoing: %xt%sp%9%2%230%270%
+19:04:36 [Debug] > Received %xt%s%j#jr%9%803%120%360% from IP: 127.0.0.1
+19:04:36 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|120|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:36 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|120|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:04:37 [Debug] > Received %xt%s%u#sp%42%505%292% from IP: 127.0.0.1
+19:04:37 [Debug] > Outgoing: %xt%sp%42%2%505%292%
+19:04:39 [Debug] > Received %xt%s%u#sp%42%173%305% from IP: 127.0.0.1
+19:04:39 [Debug] > Outgoing: %xt%sp%42%2%173%305%
+19:04:41 [Debug] > Received %xt%s%u#sp%42%95%323% from IP: 127.0.0.1
+19:04:41 [Debug] > Outgoing: %xt%sp%42%2%95%323%
+19:04:41 [Debug] > Received %xt%s%u#sp%42%100%300% from IP: 127.0.0.1
+19:04:41 [Debug] > Outgoing: %xt%sp%42%2%100%300%
+19:04:41 [Debug] > Received %xt%s%j#jr%42%210%259%264% from IP: 127.0.0.1
+19:04:42 [Debug] > Outgoing: %xt%jr%9%210%2|jamioe|45|15|0|104|0|4034|0|0|0|0|259|264|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:42 [Debug] > Outgoing: %xt%ap%9%2|jamioe|45|15|0|104|0|4034|0|0|0|0|259|264|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:04:42 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:04:42 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:05:17 [Debug] > Received %xt%s%j#jr%9%803%0%0% from IP: 127.0.0.1
+19:05:17 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:17 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:17 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:05:17 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:05:18 [Debug] > Received %xt%s%u#sp%42%372%302% from IP: 127.0.0.1
+19:05:18 [Debug] > Outgoing: %xt%sp%42%2%372%302%
+19:05:19 [Debug] > Received %xt%s%j#jr%42%120%0%0% from IP: 127.0.0.1
+19:05:19 [Debug] > Outgoing: %xt%jr%4%120%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:19 [Debug] > Outgoing: %xt%ap%4%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:19 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:05:19 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:05:26 [Debug] > Received %xt%s%u#sp%4%388%379% from IP: 127.0.0.1
+19:05:26 [Debug] > Outgoing: %xt%sp%4%2%388%379%
+19:05:27 [Debug] > Received %xt%s%u#sp%4%434%381% from IP: 127.0.0.1
+19:05:27 [Debug] > Outgoing: %xt%sp%4%2%434%381%
+19:05:27 [Debug] > Received %xt%s%u#h%4% from IP: 127.0.0.1
+19:05:27 [Debug] > Outgoing: %xt%h%4%
+19:05:28 [Debug] > Received %xt%s%u#sp%4%646%406% from IP: 127.0.0.1
+19:05:28 [Debug] > Outgoing: %xt%sp%4%2%646%406%
+19:05:29 [Debug] > Received %xt%s%u#sp%4%654%385% from IP: 127.0.0.1
+19:05:29 [Debug] > Outgoing: %xt%sp%4%2%654%385%
+19:05:30 [Debug] > Received %xt%s%u#sp%4%680%355% from IP: 127.0.0.1
+19:05:30 [Debug] > Outgoing: %xt%sp%4%2%680%355%
+19:05:30 [Debug] > Received %xt%s%j#jr%4%121%600%380% from IP: 127.0.0.1
+19:05:30 [Debug] > Outgoing: %xt%jr%5%121%2|jamioe|45|15|0|104|0|4034|0|0|0|0|600|380|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:30 [Debug] > Outgoing: %xt%ap%5%2|jamioe|45|15|0|104|0|4034|0|0|0|0|600|380|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:05:31 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:05:31 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:05:32 [Debug] > Received %xt%s%u#sp%5%285%326% from IP: 127.0.0.1
+19:05:32 [Debug] > Outgoing: %xt%sp%5%2%285%326%
+19:05:34 [Debug] > Received %xt%s%u#sp%5%470%260% from IP: 127.0.0.1
+19:05:34 [Debug] > Outgoing: %xt%sp%5%2%470%260%
+19:05:36 [Debug] > Received %xt%s%j#jr%5%900%0%0% from IP: 127.0.0.1
+19:05:36 [Debug] > Outgoing: %xt%jg%84%900%
+19:06:19 [Debug] > Received %xt%s%st#sse%-1%51% from IP: 127.0.0.1
+19:06:19 [Debug] > Outgoing: %xt%aabs%-1%51%43027%
+19:06:27 [Debug] > Received %xt%s%u#h%84% from IP: 127.0.0.1
+19:06:27 [Debug] > Outgoing: %xt%h%84%
+19:07:27 [Debug] > Received %xt%s%u#h%84% from IP: 127.0.0.1
+19:07:27 [Debug] > Outgoing: %xt%h%84%
+19:07:47 [Debug] > Received %xt%z%zo%84%770% from IP: 127.0.0.1
+19:07:47 [Debug] > Outgoing: %xt%zo%84%43104%
+19:07:47 [Debug] > Outgoing: %xt%zo%-1%43104%51%%xt%zo%-1%1%59%20%
+19:07:49 [Debug] > Received %xt%s%j#jr%84%121%0%0% from IP: 127.0.0.1
+19:07:49 [Debug] > Outgoing: %xt%jr%5%121%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:07:49 [Debug] > Outgoing: %xt%ap%5%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:07:49 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:07:49 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:07:51 [Debug] > Received %xt%s%g#gr%5% from IP: 127.0.0.1
+19:07:51 [Debug] > Outgoing: %xt%gr%5%
+19:07:56 [Debug] > Received %xt%s%i#qpp%-1%2% from IP: 127.0.0.1
+19:07:56 [Debug] > Outgoing: %xt%qpp%-1%609|1519960076|0%
+19:07:56 [Debug] > Received %xt%s%st#gsbcd%-1%2% from IP: 127.0.0.1
+19:07:56 [Debug] > Outgoing: %xt%gsbcd%-1%1%1%1%1%
+19:07:56 [Debug] > Received %xt%s%st#gps%-1%2% from IP: 127.0.0.1
+19:07:56 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+19:07:56 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:07:56 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:07:56 [Debug] > Received %xt%s%st#gmres%-1% from IP: 127.0.0.1
+19:07:56 [Debug] > Outgoing: %xt%gmres%-1%51%
+19:08:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:08:27 [Debug] > Outgoing: %xt%h%5%
+19:09:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:09:27 [Debug] > Outgoing: %xt%h%5%
+19:10:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:10:27 [Debug] > Outgoing: %xt%h%5%
+19:11:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:11:27 [Debug] > Outgoing: %xt%h%5%
+19:12:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:12:27 [Debug] > Outgoing: %xt%h%5%
+19:13:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:13:27 [Debug] > Outgoing: %xt%h%5%
+19:14:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:14:27 [Debug] > Outgoing: %xt%h%5%
+19:15:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:15:27 [Debug] > Outgoing: %xt%h%5%
+19:16:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:16:27 [Debug] > Outgoing: %xt%h%5%
+19:17:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:17:27 [Debug] > Outgoing: %xt%h%5%
+19:18:27 [Debug] > Received %xt%s%u#h%5% from IP: 127.0.0.1
+19:18:27 [Debug] > Outgoing: %xt%h%5%
+19:18:27 [Debug] > Removing penguino
+19:18:27 [Debug] > Penguino found! Removing
+19:36:51 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:36:52 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:36:52 [Debug] > Removing penguino
+19:36:52 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:36:52 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:36:52 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:36:52 [Debug] > 
+19:36:52 [Debug] > e4a2dbcca10a7246817a83cd
+19:36:52 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:36:52 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:36:52 [Debug] > Adding penguino
+19:36:52 [Debug] > New database created
+19:36:53 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:36:53 [Debug] > Removing penguino
+19:36:53 [Debug] > Penguino found! Removing
+19:36:58 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:36:58 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:36:58 [Debug] > Removing penguino
+19:36:58 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:36:58 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:36:58 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:36:58 [Debug] > 
+19:36:58 [Debug] > e4a2dbcca10a7246817a83cd
+19:36:58 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:36:58 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:36:58 [Debug] > Adding penguino
+19:36:58 [Debug] > New database created
+19:36:58 [Debug] > Outgoing: %xt%l%-1%
+19:36:59 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:36:59 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:36:59 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:36:59 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+19:36:59 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43104%0%1440%1519961819%6%0%338%%7%%1%0%211843%
+19:36:59 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:36:59 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:36:59 [Debug] > Outgoing: %xt%mg%-1%%
+19:36:59 [Debug] > Outgoing: %xt%jr%14%300%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:36:59 [Debug] > Outgoing: %xt%ap%14%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:36:59 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:36:59 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+19:36:59 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:36:59 [Debug] > Outgoing: %xt%gb%14%
+19:36:59 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:36:59 [Debug] > Outgoing: %xt%gn%14%
+19:37:00 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%mst%-1%0%18%
+19:37:00 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+19:37:00 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%pgu%14%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+19:37:00 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:37:00 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:00 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:37:00 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:37:00 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:00 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:01 [Debug] > Received %xt%s%j#jr%14%803%0%0% from IP: 127.0.0.1
+19:37:01 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:01 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:01 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:01 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:01 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:37:01 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:37:02 [Debug] > Received %xt%s%u#sp%42%623%391% from IP: 127.0.0.1
+19:37:02 [Debug] > Outgoing: %xt%sp%42%2%623%391%
+19:37:04 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:37:04 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:37:04 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:37:04 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:37:29 [Debug] > Removing penguino
+19:37:29 [Debug] > Penguino found! Removing
+19:37:50 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:37:50 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:37:50 [Debug] > Removing penguino
+19:37:50 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:37:50 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:37:50 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:37:50 [Debug] > 
+19:37:50 [Debug] > e4a2dbcca10a7246817a83cd
+19:37:50 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:37:50 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:37:50 [Debug] > Adding penguino
+19:37:50 [Debug] > New database created
+19:37:51 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:37:51 [Debug] > Removing penguino
+19:37:51 [Debug] > Penguino found! Removing
+19:37:56 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:37:56 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:37:56 [Debug] > Removing penguino
+19:37:56 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:37:56 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:37:56 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:37:56 [Debug] > 
+19:37:56 [Debug] > e4a2dbcca10a7246817a83cd
+19:37:56 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:37:57 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:37:57 [Debug] > Adding penguino
+19:37:57 [Debug] > New database created
+19:37:57 [Debug] > Outgoing: %xt%l%-1%
+19:37:57 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:37:57 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:37:57 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:37:57 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+19:37:57 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43104%0%1440%1519961877%6%0%339%%7%%1%0%211843%
+19:37:57 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:37:57 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:37:57 [Debug] > Outgoing: %xt%mg%-1%%
+19:37:57 [Debug] > Outgoing: %xt%jr%47%808%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:57 [Debug] > Outgoing: %xt%ap%47%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:57 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+19:37:58 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%gb%47%
+19:37:58 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%gn%47%
+19:37:58 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%mst%-1%0%18%
+19:37:58 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+19:37:58 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%pgu%47%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+19:37:58 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:37:58 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:58 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:37:58 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:37:59 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:37:59 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:37:59 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:59 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:59 [Debug] > Received %xt%s%j#jr%47%803%0%0% from IP: 127.0.0.1
+19:37:59 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:59 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:37:59 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:37:59 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:37:59 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:37:59 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:38:00 [Debug] > Received %xt%s%u#sp%42%602%396% from IP: 127.0.0.1
+19:38:00 [Debug] > Outgoing: %xt%sp%42%2%602%396%
+19:38:02 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:38:02 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:38:04 [Debug] > Received %xt%s%u#sp%42%697%345% from IP: 127.0.0.1
+19:38:04 [Debug] > Outgoing: %xt%sp%42%2%697%345%
+19:38:04 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:38:04 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:38:57 [Debug] > Received %xt%s%u#h%42% from IP: 127.0.0.1
+19:38:57 [Debug] > Outgoing: %xt%h%42%
+19:39:09 [Debug] > Removing penguino
+19:39:09 [Debug] > Penguino found! Removing
+19:39:17 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:39:17 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:39:17 [Debug] > Removing penguino
+19:39:17 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:39:17 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:39:17 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:39:17 [Debug] > 
+19:39:17 [Debug] > e4a2dbcca10a7246817a83cd
+19:39:17 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:39:17 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:39:17 [Debug] > Adding penguino
+19:39:18 [Debug] > New database created
+19:39:18 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:39:18 [Debug] > Removing penguino
+19:39:18 [Debug] > Penguino found! Removing
+19:39:22 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:39:22 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:39:22 [Debug] > Removing penguino
+19:39:23 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:39:23 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:39:23 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:39:23 [Debug] > 
+19:39:23 [Debug] > e4a2dbcca10a7246817a83cd
+19:39:23 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:39:23 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:39:23 [Debug] > Adding penguino
+19:39:23 [Debug] > New database created
+19:39:23 [Debug] > Outgoing: %xt%l%-1%
+19:39:23 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:39:23 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:39:23 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:39:23 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+19:39:23 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43104%0%1440%1519961963%6%0%340%%7%%1%0%211843%
+19:39:24 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:39:24 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:39:24 [Debug] > Outgoing: %xt%mg%-1%%
+19:39:24 [Debug] > Outgoing: %xt%jr%1%100%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:24 [Debug] > Outgoing: %xt%ap%1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:24 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:39:24 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+19:39:24 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:39:24 [Debug] > Outgoing: %xt%gb%1%
+19:39:24 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:39:24 [Debug] > Outgoing: %xt%gn%1%
+19:39:24 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:39:24 [Debug] > Outgoing: %xt%mst%-1%0%18%
+19:39:24 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:39:24 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+19:39:24 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%pgu%1%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+19:39:25 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:39:25 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:39:25 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:39:25 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:39:25 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:39:25 [Debug] > Received %xt%s%j#jr%1%803%0%0% from IP: 127.0.0.1
+19:39:25 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:25 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:25 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:39:26 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:39:26 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:39:26 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:39:27 [Debug] > Received %xt%s%u#sp%42%635%385% from IP: 127.0.0.1
+19:39:27 [Debug] > Outgoing: %xt%sp%42%2%635%385%
+19:39:29 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:39:29 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:39:30 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:39:30 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:39:30 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:39:30 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:30 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:39:30 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:39:30 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:39:31 [Debug] > Received %xt%s%f#epfsa%-1% from IP: 127.0.0.1
+19:39:31 [Debug] > Outgoing: %xt%epfsa%-1%1%
+19:39:31 [Debug] > Received %xt%s%i#ai%19%8009% from IP: 127.0.0.1
+19:39:31 [Debug] > Outgoing: %xt%ai%19%8009%43104%
+19:39:31 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:39:31 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:39:34 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:39:34 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:39:41 [Debug] > Received %xt%s%u#sp%19%548%105% from IP: 127.0.0.1
+19:39:41 [Debug] > Outgoing: %xt%sp%19%2%548%105%
+19:39:43 [Debug] > Received %xt%s%u#sp%19%390%172% from IP: 127.0.0.1
+19:39:43 [Debug] > Outgoing: %xt%sp%19%2%390%172%
+19:39:44 [Debug] > Received %xt%s%u#sp%19%380%108% from IP: 127.0.0.1
+19:39:44 [Debug] > Outgoing: %xt%sp%19%2%380%108%
+19:39:44 [Debug] > Received %xt%s%u#sp%19%380%108% from IP: 127.0.0.1
+19:39:44 [Debug] > Outgoing: %xt%sp%19%2%380%108%
+19:39:49 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:39:49 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:40:08 [Debug] > Received %xt%s%j#jr%19%100%0%0% from IP: 127.0.0.1
+19:40:08 [Debug] > Outgoing: %xt%jr%1%100%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:40:08 [Debug] > Outgoing: %xt%ap%1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:40:08 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:40:08 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:40:11 [Debug] > Received %xt%s%g#gr%1% from IP: 127.0.0.1
+19:40:11 [Debug] > Outgoing: %xt%gr%1%
+19:40:16 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:40:16 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:40:19 [Debug] > Received %xt%s%j#jr%-1%323%0%0% from IP: 127.0.0.1
+19:40:19 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:40:20 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:40:20 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:40:20 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:40:20 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:40:20 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:40:21 [Debug] > Received %xt%s%u#sp%19%512%221% from IP: 127.0.0.1
+19:40:21 [Debug] > Outgoing: %xt%sp%19%2%512%221%
+19:40:21 [Debug] > Received %xt%s%u#sp%19%512%225% from IP: 127.0.0.1
+19:40:21 [Debug] > Outgoing: %xt%sp%19%2%512%225%
+19:40:23 [Debug] > Received %xt%s%u#h%19% from IP: 127.0.0.1
+19:40:23 [Debug] > Outgoing: %xt%h%19%
+19:40:29 [Debug] > Received %xt%s%u#sp%19%673%154% from IP: 127.0.0.1
+19:40:29 [Debug] > Outgoing: %xt%sp%19%2%673%154%
+19:40:29 [Debug] > Received %xt%s%u#sp%19%693%154% from IP: 127.0.0.1
+19:40:29 [Debug] > Outgoing: %xt%sp%19%2%693%154%
+19:40:37 [Debug] > Received %xt%s%u#sp%19%510%213% from IP: 127.0.0.1
+19:40:37 [Debug] > Outgoing: %xt%sp%19%2%510%213%
+19:40:38 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:40:38 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:40:49 [Debug] > Received %xt%s%u#sp%19%606%244% from IP: 127.0.0.1
+19:40:49 [Debug] > Outgoing: %xt%sp%19%2%606%244%
+19:40:49 [Debug] > Received %xt%s%u#sp%19%511%156% from IP: 127.0.0.1
+19:40:49 [Debug] > Outgoing: %xt%sp%19%2%511%156%
+19:40:50 [Debug] > Received %xt%s%u#sp%19%402%162% from IP: 127.0.0.1
+19:40:50 [Debug] > Outgoing: %xt%sp%19%2%402%162%
+19:40:50 [Debug] > Received %xt%s%u#sp%19%365%178% from IP: 127.0.0.1
+19:40:50 [Debug] > Outgoing: %xt%sp%19%2%365%178%
+19:40:50 [Debug] > Received %xt%s%u#sp%19%263%174% from IP: 127.0.0.1
+19:40:50 [Debug] > Outgoing: %xt%sp%19%2%263%174%
+19:40:51 [Debug] > Received %xt%s%u#sp%19%250%164% from IP: 127.0.0.1
+19:40:51 [Debug] > Outgoing: %xt%sp%19%2%250%164%
+19:40:51 [Debug] > Received %xt%s%u#sp%19%195%111% from IP: 127.0.0.1
+19:40:51 [Debug] > Outgoing: %xt%sp%19%2%195%111%
+19:40:53 [Debug] > Received %xt%s%u#sf%19%26% from IP: 127.0.0.1
+19:40:53 [Debug] > Outgoing: %xt%sf%19%2%26%
+19:40:54 [Debug] > Received %xt%s%u#sp%19%180%114% from IP: 127.0.0.1
+19:40:54 [Debug] > Outgoing: %xt%sp%19%2%180%114%
+19:40:55 [Debug] > Received %xt%s%u#sp%19%134%161% from IP: 127.0.0.1
+19:40:55 [Debug] > Outgoing: %xt%sp%19%2%134%161%
+19:40:56 [Debug] > Received %xt%s%u#sp%19%79%154% from IP: 127.0.0.1
+19:40:56 [Debug] > Outgoing: %xt%sp%19%2%79%154%
+19:40:56 [Debug] > Received %xt%s%u#sp%19%79%154% from IP: 127.0.0.1
+19:40:56 [Debug] > Outgoing: %xt%sp%19%2%79%154%
+19:40:57 [Debug] > Received %xt%s%j#jr%19%950%0%0% from IP: 127.0.0.1
+19:40:57 [Debug] > Outgoing: %xt%jg%121%950%
+19:41:13 [Debug] > Received %xt%z%zo%121%0% from IP: 127.0.0.1
+19:41:13 [Debug] > Outgoing: %xt%zo%121%43104%
+19:41:13 [Debug] > Outgoing: %xt%zo%-1%43104%%%xt%zo%-1%0%14%20%
+19:41:17 [Debug] > Received %xt%s%j#jr%121%323%0%0% from IP: 127.0.0.1
+19:41:17 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:41:17 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:41:17 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:41:17 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:41:17 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:41:17 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:41:18 [Debug] > Received %xt%s%u#sp%19%510%210% from IP: 127.0.0.1
+19:41:18 [Debug] > Outgoing: %xt%sp%19%2%510%210%
+19:41:20 [Debug] > Received %xt%s%u#sp%19%676%249% from IP: 127.0.0.1
+19:41:20 [Debug] > Outgoing: %xt%sp%19%2%676%249%
+19:41:20 [Debug] > Received %xt%s%u#sp%19%679%251% from IP: 127.0.0.1
+19:41:20 [Debug] > Outgoing: %xt%sp%19%2%679%251%
+19:41:23 [Debug] > Received %xt%s%u#h%19% from IP: 127.0.0.1
+19:41:24 [Debug] > Outgoing: %xt%h%19%
+19:41:39 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:41:39 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:42:08 [Debug] > Removing penguino
+19:42:08 [Debug] > Penguino found! Removing
+19:43:22 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:43:22 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:43:22 [Debug] > Removing penguino
+19:43:22 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:43:22 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:43:23 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:43:23 [Debug] > 
+19:43:23 [Debug] > e4a2dbcca10a7246817a83cd
+19:43:23 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:43:23 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:43:23 [Debug] > Adding penguino
+19:43:23 [Debug] > New database created
+19:43:24 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:43:24 [Debug] > Removing penguino
+19:43:24 [Debug] > Penguino found! Removing
+19:43:40 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:43:40 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:43:40 [Debug] > Removing penguino
+19:43:40 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:43:40 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:43:40 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:43:40 [Debug] > 
+19:43:40 [Debug] > e4a2dbcca10a7246817a83cd
+19:43:41 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:43:41 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:43:41 [Debug] > Adding penguino
+19:43:41 [Debug] > New database created
+19:43:41 [Debug] > Outgoing: %xt%l%-1%
+19:43:41 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:43:41 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:43:41 [Debug] > Outgoing: %xt%js%-1%1%1%0%1%
+19:43:41 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+19:43:41 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43104%0%1440%1519962221%6%0%343%%7%%1%0%211843%
+19:43:41 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:43:41 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:43:41 [Debug] > Outgoing: %xt%mg%-1%%
+19:43:41 [Debug] > Outgoing: %xt%jr%14%300%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:43:42 [Debug] > Outgoing: %xt%ap%14%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:43:42 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+19:43:42 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%gb%14%
+19:43:42 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%gn%14%
+19:43:42 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%mst%-1%0%18%
+19:43:42 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+19:43:42 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%pgu%14%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+19:43:42 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:43:42 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:43:43 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:43:43 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%qpa%-1%2%%
+19:43:43 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%epfga%-1%1%
+19:43:43 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:43:43 [Debug] > Received %xt%s%j#jr%14%803%0%0% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:43:43 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:43:43 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:43:43 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:43:44 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:43:44 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:43:45 [Debug] > Received %xt%s%u#sp%42%650%370% from IP: 127.0.0.1
+19:43:45 [Debug] > Outgoing: %xt%sp%42%2%650%370%
+19:44:41 [Debug] > Received %xt%s%u#h%42% from IP: 127.0.0.1
+19:44:41 [Debug] > Outgoing: %xt%h%42%
+19:44:42 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:44:42 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:44:42 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:44:42 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:44:42 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:44:42 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:44:42 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:44:48 [Debug] > Received %xt%s%u#sp%19%502%356% from IP: 127.0.0.1
+19:44:48 [Debug] > Outgoing: %xt%sp%19%2%502%356%
+19:44:50 [Debug] > Received %xt%s%u#sp%19%591%387% from IP: 127.0.0.1
+19:44:50 [Debug] > Outgoing: %xt%sp%19%2%591%387%
+19:44:52 [Debug] > Received %xt%s%u#sp%19%382%372% from IP: 127.0.0.1
+19:44:52 [Debug] > Outgoing: %xt%sp%19%2%382%372%
+19:45:09 [Debug] > Received %xt%s%u#sp%19%639%368% from IP: 127.0.0.1
+19:45:09 [Debug] > Outgoing: %xt%sp%19%2%639%368%
+19:45:10 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:45:10 [Debug] > Outgoing: %xt%sp%19%2%610%270%
+19:45:11 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:45:11 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:11 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:11 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:45:11 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:45:13 [Debug] > Received %xt%s%u#sp%42%552%375% from IP: 127.0.0.1
+19:45:13 [Debug] > Outgoing: %xt%sp%42%2%552%375%
+19:45:14 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:45:14 [Debug] > Outgoing: %xt%sp%42%2%700%360%
+19:45:14 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:45:15 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:15 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:15 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:45:15 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:45:16 [Debug] > Received %xt%s%u#sp%19%609%326% from IP: 127.0.0.1
+19:45:16 [Debug] > Outgoing: %xt%sp%19%2%609%326%
+19:45:17 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:45:17 [Debug] > Outgoing: %xt%sp%19%2%610%270%
+19:45:18 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:45:18 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:18 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:18 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:45:18 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:45:20 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:45:20 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:45:26 [Debug] > Received %xt%s%j#jr%-1%323%0%0% from IP: 127.0.0.1
+19:45:26 [Debug] > Outgoing: %xt%jr%19%323%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:26 [Debug] > Outgoing: %xt%ap%19%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:26 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:45:26 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:45:31 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:45:31 [Debug] > Outgoing: %xt%sp%19%2%610%270%
+19:45:32 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:45:32 [Debug] > Outgoing: %xt%jr%42%803%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:32 [Debug] > Outgoing: %xt%ap%42%2|jamioe|45|15|0|104|0|4034|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:45:32 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:45:32 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:45:33 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:45:33 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:45:41 [Debug] > Received %xt%s%u#h%42% from IP: 127.0.0.1
+19:45:41 [Debug] > Outgoing: %xt%h%42%
+19:46:21 [Debug] > Removing penguino
+19:46:21 [Debug] > Penguino found! Removing
+19:46:31 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:46:31 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:46:32 [Debug] > Removing penguino
+19:46:32 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:46:32 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:46:32 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:46:32 [Debug] > 
+19:46:32 [Debug] > e4a2dbcca10a7246817a83cd
+19:46:32 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:46:32 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[u are a gay]]></nick><pword><![CDATA[0081cd34a20db93f093cbc9a394cf61a]]></pword></login></body></msg> from IP: 127.0.0.1
+19:46:32 [Debug] > Adding penguino
+19:46:32 [Debug] > New database created
+19:46:33 [Debug] > Outgoing: %xt%e%-1%101%
+19:46:33 [Debug] > Called
+19:46:33 [Debug] > Removing penguino
+19:46:33 [Debug] > Penguino found! Removing
+19:48:28 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:48:28 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:48:28 [Debug] > Removing penguino
+19:48:28 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:48:28 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:48:28 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:48:28 [Debug] > 
+19:48:28 [Debug] > e4a2dbcca10a7246817a83cd
+19:48:28 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:48:28 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+19:48:28 [Debug] > Adding penguino
+19:48:28 [Debug] > New database created
+19:48:29 [Debug] > Outgoing: %xt%l%-1%10%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:48:29 [Debug] > Removing penguino
+19:48:29 [Debug] > Penguino found! Removing
+19:48:33 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:48:33 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:48:33 [Debug] > Removing penguino
+19:48:33 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:48:33 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:48:34 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:48:34 [Debug] > 
+19:48:34 [Debug] > e4a2dbcca10a7246817a83cd
+19:48:34 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:48:34 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:48:34 [Debug] > Adding penguino
+19:48:34 [Debug] > New database created
+19:48:34 [Debug] > Outgoing: %xt%l%-1%
+19:48:34 [Debug] > Received %xt%s%j#js%-1%10%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:48:34 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:48:34 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:48:34 [Debug] > Outgoing: %xt%gps%-1%10%7%
+19:48:34 [Debug] > Outgoing: %xt%lp%-1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%5000%0%1440%1519962514%0%0%0%%7%%1%0%211843%
+19:48:34 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:48:34 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:48:35 [Debug] > Outgoing: %xt%mg%-1%%
+19:48:35 [Debug] > Outgoing: %xt%jr%47%808%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:35 [Debug] > Outgoing: %xt%ap%47%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:35 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%
+19:48:35 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%gb%47%
+19:48:35 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%gn%47%
+19:48:35 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%mst%-1%0%0%
+19:48:35 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%mg%-1%%
+19:48:35 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:48:35 [Debug] > Outgoing: %xt%pgu%47%%
+19:48:35 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:48:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:48:36 [Debug] > Received %xt%s%i#qpa%-1%10% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%qpa%-1%10%%
+19:48:36 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:48:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:48:36 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:48:36 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:48:39 [Debug] > Received %xt%s%u#sp%47%551%169% from IP: 127.0.0.1
+19:48:39 [Debug] > Outgoing: %xt%sp%47%10%551%169%
+19:48:50 [Debug] > Received %xt%s%i#ai%47%800% from IP: 127.0.0.1
+19:48:50 [Debug] > Outgoing: %xt%ai%47%800%5000%
+19:48:52 [Debug] > Received %xt%s%j#jr%47%100%0%0% from IP: 127.0.0.1
+19:48:52 [Debug] > Outgoing: %xt%jr%1%100%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:52 [Debug] > Outgoing: %xt%ap%1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:52 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:48:53 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:48:53 [Debug] > Received %xt%s%j#jr%1%803%0%0% from IP: 127.0.0.1
+19:48:53 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:53 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:53 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:48:53 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:48:54 [Debug] > Received %xt%s%u#sp%42%664%364% from IP: 127.0.0.1
+19:48:54 [Debug] > Outgoing: %xt%sp%42%10%664%364%
+19:48:55 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:48:55 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:48:57 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:48:57 [Debug] > Outgoing: %xt%jr%19%323%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:57 [Debug] > Outgoing: %xt%ap%19%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:57 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:48:57 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:48:59 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:48:59 [Debug] > Outgoing: %xt%sp%19%10%610%270%
+19:48:59 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:48:59 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:48:59 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:00 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:00 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:00 [Debug] > Received %xt%s%u#sp%42%20%370% from IP: 127.0.0.1
+19:49:01 [Debug] > Outgoing: %xt%sp%42%10%20%370%
+19:49:01 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:49:02 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:49:02 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:49:02 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:49:02 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:49:03 [Debug] > Outgoing: %xt%jr%19%323%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:03 [Debug] > Outgoing: %xt%ap%19%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:03 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:03 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:03 [Debug] > Received %xt%s%u#sp%19%691%325% from IP: 127.0.0.1
+19:49:03 [Debug] > Outgoing: %xt%sp%19%10%691%325%
+19:49:06 [Debug] > Received %xt%s%u#sp%19%628%408% from IP: 127.0.0.1
+19:49:06 [Debug] > Outgoing: %xt%sp%19%10%628%408%
+19:49:06 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:49:06 [Debug] > Outgoing: %xt%sp%19%10%610%270%
+19:49:07 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:49:07 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:08 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:08 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:08 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:09 [Debug] > Received %xt%s%u#sp%42%497%400% from IP: 127.0.0.1
+19:49:09 [Debug] > Outgoing: %xt%sp%42%10%497%400%
+19:49:10 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:49:10 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:49:10 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:49:11 [Debug] > Outgoing: %xt%jr%19%323%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:11 [Debug] > Outgoing: %xt%ap%19%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:11 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:11 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:20 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:49:20 [Debug] > Outgoing: %xt%sp%19%10%610%270%
+19:49:21 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:49:21 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:21 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:21 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:21 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:23 [Debug] > Received %xt%s%u#sp%42%562%339% from IP: 127.0.0.1
+19:49:23 [Debug] > Outgoing: %xt%sp%42%10%562%339%
+19:49:23 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:49:23 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:49:24 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:49:24 [Debug] > Outgoing: %xt%jr%19%323%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:24 [Debug] > Outgoing: %xt%ap%19%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:24 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:24 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:31 [Debug] > Received %xt%s%j#jr%19%321%0%0% from IP: 127.0.0.1
+19:49:32 [Debug] > Outgoing: %xt%jr%17%321%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:32 [Debug] > Outgoing: %xt%ap%17%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:32 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:32 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:34 [Debug] > Received %xt%s%u#h%17% from IP: 127.0.0.1
+19:49:34 [Debug] > Outgoing: %xt%h%17%
+19:49:35 [Debug] > Received %xt%s%u#sp%17%386%289% from IP: 127.0.0.1
+19:49:35 [Debug] > Outgoing: %xt%sp%17%10%386%289%
+19:49:35 [Debug] > Received %xt%s%u#sp%17%390%300% from IP: 127.0.0.1
+19:49:35 [Debug] > Outgoing: %xt%sp%17%10%390%300%
+19:49:36 [Debug] > Received %xt%s%j#jr%17%320%200%330% from IP: 127.0.0.1
+19:49:36 [Debug] > Outgoing: %xt%jr%16%320%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|200|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:36 [Debug] > Outgoing: %xt%ap%16%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|200|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:36 [Debug] > Received %xt%z%gw%16%200%201%202%203% from IP: 127.0.0.1
+19:49:36 [Debug] > Outgoing: %xt%gw%16%200|,%201|,%202|,%203|,%
+19:49:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:37 [Debug] > Received %xt%s%u#sp%16%550%320% from IP: 127.0.0.1
+19:49:37 [Debug] > Outgoing: %xt%sp%16%10%550%320%
+19:49:37 [Debug] > Received %xt%s%u#sp%16%232%372% from IP: 127.0.0.1
+19:49:38 [Debug] > Outgoing: %xt%sp%16%10%232%372%
+19:49:40 [Debug] > Received %xt%s%j#jr%16%100%0%0% from IP: 127.0.0.1
+19:49:40 [Debug] > Outgoing: %xt%jr%1%100%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:40 [Debug] > Outgoing: %xt%ap%1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:49:40 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:49:40 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:49:41 [Debug] > Received %xt%s%u#sp%1%342%205% from IP: 127.0.0.1
+19:49:42 [Debug] > Outgoing: %xt%sp%1%10%342%205%
+19:49:42 [Debug] > Received %xt%s%u#sp%1%379%301% from IP: 127.0.0.1
+19:49:43 [Debug] > Outgoing: %xt%sp%1%10%379%301%
+19:49:43 [Debug] > Received %xt%s%u#sp%1%372%217% from IP: 127.0.0.1
+19:49:43 [Debug] > Outgoing: %xt%sp%1%10%372%217%
+19:49:45 [Debug] > Received %xt%s%u#sp%1%383%306% from IP: 127.0.0.1
+19:49:45 [Debug] > Outgoing: %xt%sp%1%10%383%306%
+19:50:34 [Debug] > Received %xt%s%u#h%1% from IP: 127.0.0.1
+19:50:34 [Debug] > Outgoing: %xt%h%1%
+19:51:34 [Debug] > Received %xt%s%u#h%1% from IP: 127.0.0.1
+19:51:34 [Debug] > Outgoing: %xt%h%1%
+19:52:34 [Debug] > Received %xt%s%u#h%1% from IP: 127.0.0.1
+19:52:34 [Debug] > Outgoing: %xt%h%1%
+19:53:20 [Debug] > Received %xt%s%j#jr%1%803%0%0% from IP: 127.0.0.1
+19:53:20 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:53:20 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:53:20 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:53:20 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:53:21 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:53:22 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:53:22 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:53:22 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:53:22 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:53:22 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:53:23 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:53:23 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:53:23 [Debug] > Received %xt%s%u#sp%42%700%360% from IP: 127.0.0.1
+19:53:23 [Debug] > Outgoing: %xt%sp%42%10%700%360%
+19:53:24 [Debug] > Received %xt%s%j#jr%42%323%535%265% from IP: 127.0.0.1
+19:53:24 [Debug] > Outgoing: %xt%jr%19%323%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:53:24 [Debug] > Outgoing: %xt%ap%19%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|535|265|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:53:24 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:53:24 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:53:34 [Debug] > Received %xt%s%u#h%19% from IP: 127.0.0.1
+19:53:34 [Debug] > Outgoing: %xt%h%19%
+19:54:34 [Debug] > Received %xt%s%u#h%19% from IP: 127.0.0.1
+19:54:34 [Debug] > Outgoing: %xt%h%19%
+19:54:58 [Debug] > Received %xt%s%u#sp%19%540%247% from IP: 127.0.0.1
+19:54:58 [Debug] > Outgoing: %xt%sp%19%10%540%247%
+19:54:59 [Debug] > Received %xt%s%u#sp%19%547%267% from IP: 127.0.0.1
+19:54:59 [Debug] > Outgoing: %xt%sp%19%10%547%267%
+19:55:00 [Debug] > Received %xt%s%u#sp%19%610%270% from IP: 127.0.0.1
+19:55:00 [Debug] > Outgoing: %xt%sp%19%10%610%270%
+19:55:00 [Debug] > Received %xt%s%j#jr%19%803%690%360% from IP: 127.0.0.1
+19:55:01 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:01 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|690|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:01 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:55:01 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:55:04 [Debug] > Received %xt%s%j#jr%42%801%0%0% from IP: 127.0.0.1
+19:55:04 [Debug] > Outgoing: %xt%jr%40%801%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:05 [Debug] > Outgoing: %xt%ap%40%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:05 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:55:05 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:55:05 [Debug] > Received %xt%s%u#sp%40%457%192% from IP: 127.0.0.1
+19:55:05 [Debug] > Outgoing: %xt%sp%40%10%457%192%
+19:55:08 [Debug] > Received %xt%s%u#sb%40%679%82% from IP: 127.0.0.1
+19:55:08 [Debug] > Outgoing: %xt%sb%40%10%679%82%
+19:55:08 [Debug] > Received %xt%s%u#sb%40%660%87% from IP: 127.0.0.1
+19:55:08 [Debug] > Outgoing: %xt%sb%40%10%660%87%
+19:55:08 [Debug] > Received %xt%s%u#sb%40%676%92% from IP: 127.0.0.1
+19:55:08 [Debug] > Outgoing: %xt%sb%40%10%676%92%
+19:55:09 [Debug] > Received %xt%s%u#sb%40%665%78% from IP: 127.0.0.1
+19:55:09 [Debug] > Outgoing: %xt%sb%40%10%665%78%
+19:55:09 [Debug] > Received %xt%s%u#sb%40%673%83% from IP: 127.0.0.1
+19:55:09 [Debug] > Outgoing: %xt%sb%40%10%673%83%
+19:55:11 [Debug] > Received %xt%s%u#sb%40%677%88% from IP: 127.0.0.1
+19:55:11 [Debug] > Outgoing: %xt%sb%40%10%677%88%
+19:55:13 [Debug] > Received %xt%s%u#sb%40%582%383% from IP: 127.0.0.1
+19:55:13 [Debug] > Outgoing: %xt%sb%40%10%582%383%
+19:55:14 [Debug] > Received %xt%s%u#sp%40%709%234% from IP: 127.0.0.1
+19:55:14 [Debug] > Outgoing: %xt%sp%40%10%709%234%
+19:55:15 [Debug] > Received %xt%s%u#sb%40%677%299% from IP: 127.0.0.1
+19:55:15 [Debug] > Outgoing: %xt%sb%40%10%677%299%
+19:55:16 [Debug] > Received %xt%s%u#sb%40%521%341% from IP: 127.0.0.1
+19:55:16 [Debug] > Outgoing: %xt%sb%40%10%521%341%
+19:55:16 [Debug] > Received %xt%s%u#sb%40%505%367% from IP: 127.0.0.1
+19:55:16 [Debug] > Outgoing: %xt%sb%40%10%505%367%
+19:55:16 [Debug] > Received %xt%s%u#sb%40%499%357% from IP: 127.0.0.1
+19:55:16 [Debug] > Outgoing: %xt%sb%40%10%499%357%
+19:55:17 [Debug] > Received %xt%s%j#jr%40%300%132%338% from IP: 127.0.0.1
+19:55:17 [Debug] > Outgoing: %xt%jr%14%300%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|132|338|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:17 [Debug] > Outgoing: %xt%ap%14%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|132|338|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:55:17 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:55:17 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:55:18 [Debug] > Received %xt%s%u#sb%14%566%187% from IP: 127.0.0.1
+19:55:18 [Debug] > Outgoing: %xt%sb%14%10%566%187%
+19:55:20 [Debug] > Received %xt%s%u#sp%14%159%334% from IP: 127.0.0.1
+19:55:20 [Debug] > Outgoing: %xt%sp%14%10%159%334%
+19:55:21 [Debug] > Received %xt%s%g#gr%14% from IP: 127.0.0.1
+19:55:21 [Debug] > Outgoing: %xt%gr%14%
+19:55:22 [Debug] > Received %xt%s%iCP#umo%-1%Hello, I'm New!% from IP: 127.0.0.1
+19:55:30 [Debug] > Received %xt%s%iCP#umo%-1%u are one gae boi% from IP: 127.0.0.1
+19:55:32 [Debug] > Received %xt%s%g#gr%14% from IP: 127.0.0.1
+19:55:32 [Debug] > Outgoing: %xt%gr%14%
+19:55:34 [Debug] > Received %xt%s%iCP#umo%-1%u are one gae boi% from IP: 127.0.0.1
+19:55:34 [Debug] > Received %xt%s%u#h%14% from IP: 127.0.0.1
+19:55:34 [Debug] > Outgoing: %xt%h%14%
+19:56:34 [Debug] > Received %xt%s%u#h%14% from IP: 127.0.0.1
+19:56:34 [Debug] > Outgoing: %xt%h%14%
+19:56:52 [Debug] > Removing penguino
+19:56:53 [Debug] > Penguino found! Removing
+19:57:13 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:57:13 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+19:57:13 [Debug] > Removing penguino
+19:57:13 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:57:13 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:57:13 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:57:13 [Debug] > 
+19:57:13 [Debug] > e4a2dbcca10a7246817a83cd
+19:57:13 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:57:13 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+19:57:14 [Debug] > Adding penguino
+19:57:14 [Debug] > New database created
+19:57:14 [Debug] > Outgoing: %xt%l%-1%10%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+19:57:14 [Debug] > Removing penguino
+19:57:14 [Debug] > Penguino found! Removing
+19:57:18 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+19:57:18 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+19:57:19 [Debug] > Removing penguino
+19:57:19 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+19:57:19 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+19:57:19 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+19:57:19 [Debug] > 
+19:57:19 [Debug] > e4a2dbcca10a7246817a83cd
+19:57:19 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+19:57:19 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+19:57:19 [Debug] > Adding penguino
+19:57:19 [Debug] > New database created
+19:57:19 [Debug] > Outgoing: %xt%l%-1%
+19:57:19 [Debug] > Received %xt%s%j#js%-1%10%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+19:57:19 [Debug] > Outgoing: %xt%activefeatures%-1%
+19:57:19 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+19:57:20 [Debug] > Outgoing: %xt%gps%-1%10%7%
+19:57:20 [Debug] > Outgoing: %xt%lp%-1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%5000%0%1440%1519963040%0%0%8%%7%%1%0%211843%
+19:57:20 [Debug] > Outgoing: %xt%glr%-1%3239%
+19:57:20 [Debug] > Outgoing: %xt%mst%-1%0%5%
+19:57:20 [Debug] > Outgoing: %xt%mg%-1%%
+19:57:20 [Debug] > Outgoing: %xt%jr%3%111%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:20 [Debug] > Outgoing: %xt%ap%3%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:20 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+19:57:20 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%800%
+19:57:20 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+19:57:20 [Debug] > Outgoing: %xt%gb%3%
+19:57:20 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+19:57:20 [Debug] > Outgoing: %xt%gn%3%
+19:57:20 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+19:57:20 [Debug] > Outgoing: %xt%mst%-1%0%0%
+19:57:20 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+19:57:20 [Debug] > Outgoing: %xt%mg%-1%%
+19:57:21 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%pgu%3%%
+19:57:21 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%glr%-1%10915%
+19:57:21 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:57:21 [Debug] > Received %xt%s%i#qpa%-1%10% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%qpa%-1%10%%
+19:57:21 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%epfga%-1%0%
+19:57:21 [Debug] > Received %xt%s%a#gt%3%100%101%102%103%104% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%gt%3%100|0%101|0%102|0%103|0%104|0%
+19:57:21 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:57:21 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:57:22 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+19:57:22 [Debug] > Outgoing: %xt%epfgf%-1%1%
+19:57:22 [Debug] > Received %xt%s%u#sp%3%589%249% from IP: 127.0.0.1
+19:57:22 [Debug] > Outgoing: %xt%sp%3%10%589%249%
+19:57:24 [Debug] > Received %xt%s%j#jr%3%300%0%0% from IP: 127.0.0.1
+19:57:24 [Debug] > Outgoing: %xt%jr%14%300%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:24 [Debug] > Outgoing: %xt%ap%14%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:24 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:57:24 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:57:27 [Debug] > Received %xt%s%u#sp%14%280%250% from IP: 127.0.0.1
+19:57:27 [Debug] > Outgoing: %xt%sp%14%10%280%250%
+19:57:27 [Debug] > Received %xt%s%u#sp%14%282%326% from IP: 127.0.0.1
+19:57:28 [Debug] > Outgoing: %xt%sp%14%10%282%326%
+19:57:31 [Debug] > Received %xt%s%u#sp%14%91%276% from IP: 127.0.0.1
+19:57:32 [Debug] > Outgoing: %xt%sp%14%10%91%276%
+19:57:32 [Debug] > Received %xt%s%u#sp%14%250%367% from IP: 127.0.0.1
+19:57:32 [Debug] > Outgoing: %xt%sp%14%10%250%367%
+19:57:34 [Debug] > Received %xt%s%u#sp%14%85%304% from IP: 127.0.0.1
+19:57:34 [Debug] > Outgoing: %xt%sp%14%10%85%304%
+19:57:35 [Debug] > Received %xt%s%u#sp%14%73%245% from IP: 127.0.0.1
+19:57:35 [Debug] > Outgoing: %xt%sp%14%10%73%245%
+19:57:35 [Debug] > Received %xt%s%j#jr%14%801%642%360% from IP: 127.0.0.1
+19:57:36 [Debug] > Outgoing: %xt%jr%40%801%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|642|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:36 [Debug] > Outgoing: %xt%ap%40%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|642|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:57:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:57:37 [Debug] > Received %xt%s%u#sp%40%722%218% from IP: 127.0.0.1
+19:57:37 [Debug] > Outgoing: %xt%sp%40%10%722%218%
+19:57:38 [Debug] > Received %xt%s%u#sp%40%729%216% from IP: 127.0.0.1
+19:57:38 [Debug] > Outgoing: %xt%sp%40%10%729%216%
+19:57:39 [Debug] > Received %xt%s%j#jr%40%300%132%338% from IP: 127.0.0.1
+19:57:39 [Debug] > Outgoing: %xt%jr%14%300%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|132|338|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:39 [Debug] > Outgoing: %xt%ap%14%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|132|338|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:57:39 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:57:39 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:09 [Debug] > Received %xt%s%u#sp%14%84%245% from IP: 127.0.0.1
+19:58:09 [Debug] > Outgoing: %xt%sp%14%10%84%245%
+19:58:10 [Debug] > Received %xt%s%j#jr%14%801%642%360% from IP: 127.0.0.1
+19:58:10 [Debug] > Outgoing: %xt%jr%40%801%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|642|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:10 [Debug] > Outgoing: %xt%ap%40%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|642|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:10 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:10 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:20 [Debug] > Received %xt%s%u#h%40% from IP: 127.0.0.1
+19:58:20 [Debug] > Outgoing: %xt%h%40%
+19:58:29 [Debug] > Received %xt%s%j#jr%40%803%0%0% from IP: 127.0.0.1
+19:58:29 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:29 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:29 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:29 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:32 [Debug] > Received %xt%s%j#jr%42%805%0%0% from IP: 127.0.0.1
+19:58:32 [Debug] > Outgoing: %xt%jr%44%805%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:32 [Debug] > Outgoing: %xt%ap%44%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:32 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:32 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:35 [Debug] > Received %xt%s%j#jr%44%803%0%0% from IP: 127.0.0.1
+19:58:35 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:35 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:36 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:36 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:38 [Debug] > Received %xt%s%j#jr%42%100%0%0% from IP: 127.0.0.1
+19:58:39 [Debug] > Outgoing: %xt%jr%1%100%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:39 [Debug] > Outgoing: %xt%ap%1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:39 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:39 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:40 [Debug] > Received %xt%s%u#sp%1%365%199% from IP: 127.0.0.1
+19:58:40 [Debug] > Outgoing: %xt%sp%1%10%365%199%
+19:58:41 [Debug] > Received %xt%s%u#sp%1%342%205% from IP: 127.0.0.1
+19:58:41 [Debug] > Outgoing: %xt%sp%1%10%342%205%
+19:58:41 [Debug] > Received %xt%s%j#jr%1%120%150%280% from IP: 127.0.0.1
+19:58:41 [Debug] > Outgoing: %xt%jr%4%120%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|150|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:41 [Debug] > Outgoing: %xt%ap%4%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|150|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:41 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:41 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:42 [Debug] > Received %xt%s%u#sp%4%374%211% from IP: 127.0.0.1
+19:58:42 [Debug] > Outgoing: %xt%sp%4%10%374%211%
+19:58:43 [Debug] > Received %xt%s%u#sp%4%332%364% from IP: 127.0.0.1
+19:58:43 [Debug] > Outgoing: %xt%sp%4%10%332%364%
+19:58:45 [Debug] > Received %xt%s%u#sp%4%533%430% from IP: 127.0.0.1
+19:58:45 [Debug] > Outgoing: %xt%sp%4%10%533%430%
+19:58:46 [Debug] > Received %xt%s%u#sp%4%602%412% from IP: 127.0.0.1
+19:58:46 [Debug] > Outgoing: %xt%sp%4%10%602%412%
+19:58:47 [Debug] > Received %xt%s%u#sp%4%680%355% from IP: 127.0.0.1
+19:58:47 [Debug] > Outgoing: %xt%sp%4%10%680%355%
+19:58:48 [Debug] > Received %xt%s%j#jr%4%121%600%380% from IP: 127.0.0.1
+19:58:48 [Debug] > Outgoing: %xt%jr%5%121%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|600|380|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:48 [Debug] > Outgoing: %xt%ap%5%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|600|380|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:48 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:49 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:50 [Debug] > Received %xt%s%u#sp%5%336%256% from IP: 127.0.0.1
+19:58:50 [Debug] > Outgoing: %xt%sp%5%10%336%256%
+19:58:51 [Debug] > Received %xt%s%u#sp%5%336%256% from IP: 127.0.0.1
+19:58:51 [Debug] > Outgoing: %xt%sp%5%10%336%256%
+19:58:52 [Debug] > Received %xt%s%u#sp%5%431%276% from IP: 127.0.0.1
+19:58:52 [Debug] > Outgoing: %xt%sp%5%10%431%276%
+19:58:56 [Debug] > Received %xt%s%j#jr%5%803%0%0% from IP: 127.0.0.1
+19:58:56 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:56 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:58:56 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:58:56 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:58:57 [Debug] > Received %xt%s%u#sp%42%100%300% from IP: 127.0.0.1
+19:58:57 [Debug] > Outgoing: %xt%sp%42%10%100%300%
+19:59:00 [Debug] > Received %xt%s%j#jr%42%210%259%264% from IP: 127.0.0.1
+19:59:00 [Debug] > Outgoing: %xt%jr%9%210%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|259|264|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:00 [Debug] > Outgoing: %xt%ap%9%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|259|264|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:00 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:00 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:03 [Debug] > Received %xt%s%u#sp%9%313%251% from IP: 127.0.0.1
+19:59:03 [Debug] > Outgoing: %xt%sp%9%10%313%251%
+19:59:03 [Debug] > Received %xt%s%u#sp%9%540%233% from IP: 127.0.0.1
+19:59:03 [Debug] > Outgoing: %xt%sp%9%10%540%233%
+19:59:05 [Debug] > Received %xt%s%u#sp%9%540%233% from IP: 127.0.0.1
+19:59:05 [Debug] > Outgoing: %xt%sp%9%10%540%233%
+19:59:05 [Debug] > Received %xt%s%j#jr%9%200%576%255% from IP: 127.0.0.1
+19:59:05 [Debug] > Outgoing: %xt%jr%8%200%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|576|255|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:05 [Debug] > Outgoing: %xt%ap%8%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|576|255|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:06 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:06 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:07 [Debug] > Received %xt%s%u#sp%8%223%222% from IP: 127.0.0.1
+19:59:07 [Debug] > Outgoing: %xt%sp%8%10%223%222%
+19:59:10 [Debug] > Received %xt%s%j#jr%8%230%420%160% from IP: 127.0.0.1
+19:59:10 [Debug] > Outgoing: %xt%jr%13%230%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|420|160|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:10 [Debug] > Outgoing: %xt%ap%13%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|420|160|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:10 [Debug] > Received %xt%z%gw%13%100%101%102%103% from IP: 127.0.0.1
+19:59:10 [Debug] > Outgoing: %xt%gw%13%100|,,,%101|,,%102|,%103|,%
+19:59:10 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:10 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:11 [Debug] > Received %xt%s%u#sp%13%534%305% from IP: 127.0.0.1
+19:59:11 [Debug] > Outgoing: %xt%sp%13%10%534%305%
+19:59:14 [Debug] > Received %xt%s%j#jr%13%802%0%0% from IP: 127.0.0.1
+19:59:15 [Debug] > Outgoing: %xt%jr%41%802%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:15 [Debug] > Outgoing: %xt%ap%41%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:15 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:15 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:15 [Debug] > Received %xt%z%gz%41% from IP: 127.0.0.1
+19:59:15 [Debug] > Outgoing: %xt%gz%41%0%0%0%0%
+19:59:15 [Debug] > Received %xt%s%u#sp%41%392%180% from IP: 127.0.0.1
+19:59:15 [Debug] > Outgoing: %xt%sp%41%10%392%180%
+19:59:16 [Debug] > Received %xt%z%m%41%10%0%0%-1%-10% from IP: 127.0.0.1
+19:59:16 [Debug] > Outgoing: %xt%zm%41%10%0%0%-1%-10%
+19:59:17 [Debug] > Received %xt%s%u#sp%41%376%86% from IP: 127.0.0.1
+19:59:17 [Debug] > Outgoing: %xt%sp%41%10%376%86%
+19:59:17 [Debug] > Received %xt%s%j#jr%41%801%280%200% from IP: 127.0.0.1
+19:59:17 [Debug] > Outgoing: %xt%jr%40%801%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|280|200|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:18 [Debug] > Outgoing: %xt%ap%40%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|280|200|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:18 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:18 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:19 [Debug] > Received %xt%s%u#sp%40%157%266% from IP: 127.0.0.1
+19:59:19 [Debug] > Outgoing: %xt%sp%40%10%157%266%
+19:59:20 [Debug] > Received %xt%s%u#h%40% from IP: 127.0.0.1
+19:59:20 [Debug] > Outgoing: %xt%h%40%
+19:59:20 [Debug] > Received %xt%s%u#sp%40%133%213% from IP: 127.0.0.1
+19:59:20 [Debug] > Outgoing: %xt%sp%40%10%133%213%
+19:59:20 [Debug] > Received %xt%s%j#jr%40%100%620%330% from IP: 127.0.0.1
+19:59:20 [Debug] > Outgoing: %xt%jr%1%100%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|620|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:21 [Debug] > Outgoing: %xt%ap%1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|620|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:21 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:21 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:23 [Debug] > Received %xt%s%u#sp%1%505%233% from IP: 127.0.0.1
+19:59:23 [Debug] > Outgoing: %xt%sp%1%10%505%233%
+19:59:24 [Debug] > Received %xt%s%u#sp%1%505%233% from IP: 127.0.0.1
+19:59:24 [Debug] > Outgoing: %xt%sp%1%10%505%233%
+19:59:25 [Debug] > Received %xt%s%j#jr%1%130%518%260% from IP: 127.0.0.1
+19:59:25 [Debug] > Outgoing: %xt%jr%7%130%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|518|260|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:25 [Debug] > Outgoing: %xt%ap%7%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|518|260|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+19:59:25 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+19:59:25 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+19:59:27 [Debug] > Received %xt%s%u#sp%7%312%310% from IP: 127.0.0.1
+19:59:27 [Debug] > Outgoing: %xt%sp%7%10%312%310%
+19:59:28 [Debug] > Received %xt%s%u#sp%7%404%343% from IP: 127.0.0.1
+19:59:28 [Debug] > Outgoing: %xt%sp%7%10%404%343%
+19:59:29 [Debug] > Received %xt%s%u#sp%7%352%384% from IP: 127.0.0.1
+19:59:29 [Debug] > Outgoing: %xt%sp%7%10%352%384%
+19:59:30 [Debug] > Received %xt%s%u#sp%7%143%418% from IP: 127.0.0.1
+19:59:30 [Debug] > Outgoing: %xt%sp%7%10%143%418%
+19:59:38 [Debug] > Received %xt%s%u#sp%7%140%352% from IP: 127.0.0.1
+19:59:38 [Debug] > Outgoing: %xt%sp%7%10%140%352%
+20:00:01 [Debug] > Received %xt%s%i#ai%7%523% from IP: 127.0.0.1
+20:00:01 [Debug] > Outgoing: %xt%ai%7%523%4980%
+20:00:20 [Debug] > Received %xt%s%u#h%7% from IP: 127.0.0.1
+20:00:20 [Debug] > Outgoing: %xt%h%7%
+20:01:20 [Debug] > Received %xt%s%u#h%7% from IP: 127.0.0.1
+20:01:20 [Debug] > Outgoing: %xt%h%7%
+20:02:20 [Debug] > Received %xt%s%u#h%7% from IP: 127.0.0.1
+20:02:20 [Debug] > Outgoing: %xt%h%7%
+20:02:33 [Debug] > Removing penguino
+20:02:33 [Debug] > Penguino found! Removing
+20:08:49 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+20:08:49 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+20:08:49 [Debug] > Removing penguino
+20:08:50 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+20:08:50 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+20:08:50 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+20:08:50 [Debug] > 
+20:08:50 [Debug] > e4a2dbcca10a7246817a83cd
+20:08:50 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+20:08:50 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+20:08:50 [Debug] > Adding penguino
+20:08:50 [Debug] > New database created
+20:08:51 [Debug] > Outgoing: %xt%l%-1%10%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+20:08:51 [Debug] > Removing penguino
+20:08:51 [Debug] > Penguino found! Removing
+20:08:56 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+20:08:56 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+20:08:56 [Debug] > Removing penguino
+20:08:56 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+20:08:56 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+20:08:56 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+20:08:56 [Debug] > 
+20:08:56 [Debug] > e4a2dbcca10a7246817a83cd
+20:08:56 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+20:08:56 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+20:08:57 [Debug] > Adding penguino
+20:08:57 [Debug] > New database created
+20:08:57 [Debug] > Outgoing: %xt%l%-1%
+20:08:57 [Debug] > Received %xt%s%j#js%-1%10%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+20:08:57 [Debug] > Outgoing: %xt%activefeatures%-1%
+20:08:57 [Debug] > Outgoing: %xt%js%-1%1%0%0%1%
+20:08:57 [Debug] > Outgoing: %xt%gps%-1%10%7%
+20:08:57 [Debug] > Outgoing: %xt%lp%-1%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%4980%0%1440%1519963737%0%0%13%%7%%1%0%211843%
+20:08:57 [Debug] > Outgoing: %xt%glr%-1%3239%
+20:08:57 [Debug] > Outgoing: %xt%mst%-1%0%5%
+20:08:57 [Debug] > Outgoing: %xt%mg%-1%%
+20:08:57 [Debug] > Outgoing: %xt%jr%47%808%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:08:57 [Debug] > Outgoing: %xt%ap%47%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:08:58 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%800%523%
+20:08:58 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%gb%47%
+20:08:58 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%gn%47%
+20:08:58 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%mst%-1%0%0%
+20:08:58 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%mg%-1%%
+20:08:58 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+20:08:58 [Debug] > Outgoing: %xt%pgu%47%%
+20:08:58 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%glr%-1%10915%
+20:08:59 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:08:59 [Debug] > Received %xt%s%i#qpa%-1%10% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%qpa%-1%10%%
+20:08:59 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%epfga%-1%0%
+20:08:59 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:08:59 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+20:08:59 [Debug] > Outgoing: %xt%epfgf%-1%1%
+20:09:01 [Debug] > Received %xt%s%j#jr%47%807%0%0% from IP: 127.0.0.1
+20:09:01 [Debug] > Outgoing: %xt%jr%46%807%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:09:01 [Debug] > Outgoing: %xt%ap%46%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:09:01 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:09:01 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:09:02 [Debug] > Received %xt%s%u#sp%46%115%233% from IP: 127.0.0.1
+20:09:02 [Debug] > Outgoing: %xt%sp%46%10%115%233%
+20:09:02 [Debug] > Received %xt%s%u#sp%46%102%216% from IP: 127.0.0.1
+20:09:02 [Debug] > Outgoing: %xt%sp%46%10%102%216%
+20:09:03 [Debug] > Received %xt%s%u#sp%46%72%232% from IP: 127.0.0.1
+20:09:03 [Debug] > Outgoing: %xt%sp%46%10%72%232%
+20:09:04 [Debug] > Received %xt%s%u#sp%46%82%222% from IP: 127.0.0.1
+20:09:04 [Debug] > Outgoing: %xt%sp%46%10%82%222%
+20:09:05 [Debug] > Received %xt%s%u#sp%46%90%264% from IP: 127.0.0.1
+20:09:05 [Debug] > Outgoing: %xt%sp%46%10%90%264%
+20:09:06 [Debug] > Received %xt%s%u#sp%46%46%233% from IP: 127.0.0.1
+20:09:06 [Debug] > Outgoing: %xt%sp%46%10%46%233%
+20:09:06 [Debug] > Received %xt%s%j#jr%46%122%120%280% from IP: 127.0.0.1
+20:09:06 [Debug] > Outgoing: %xt%jr%6%122%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|120|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:09:06 [Debug] > Outgoing: %xt%ap%6%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|120|280|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:09:06 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:09:06 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:09:15 [Debug] > Received %xt%s%u#sb%6%136%99% from IP: 127.0.0.1
+20:09:15 [Debug] > Outgoing: %xt%sb%6%10%136%99%
+20:09:16 [Debug] > Received %xt%s%u#sb%6%146%83% from IP: 127.0.0.1
+20:09:16 [Debug] > Outgoing: %xt%sb%6%10%146%83%
+20:09:16 [Debug] > Received %xt%s%u#sb%6%144%99% from IP: 127.0.0.1
+20:09:16 [Debug] > Outgoing: %xt%sb%6%10%144%99%
+20:09:16 [Debug] > Received %xt%s%u#sb%6%149%83% from IP: 127.0.0.1
+20:09:16 [Debug] > Outgoing: %xt%sb%6%10%149%83%
+20:09:17 [Debug] > Received %xt%s%u#sb%6%144%98% from IP: 127.0.0.1
+20:09:17 [Debug] > Outgoing: %xt%sb%6%10%144%98%
+20:09:17 [Debug] > Received %xt%s%u#sb%6%160%104% from IP: 127.0.0.1
+20:09:17 [Debug] > Outgoing: %xt%sb%6%10%160%104%
+20:09:18 [Debug] > Received %xt%s%u#sb%6%148%90% from IP: 127.0.0.1
+20:09:18 [Debug] > Outgoing: %xt%sb%6%10%148%90%
+20:09:18 [Debug] > Received %xt%s%u#sb%6%159%87% from IP: 127.0.0.1
+20:09:18 [Debug] > Outgoing: %xt%sb%6%10%159%87%
+20:09:18 [Debug] > Received %xt%s%u#sb%6%160%99% from IP: 127.0.0.1
+20:09:18 [Debug] > Outgoing: %xt%sb%6%10%160%99%
+20:09:19 [Debug] > Received %xt%s%u#sb%6%147%96% from IP: 127.0.0.1
+20:09:19 [Debug] > Outgoing: %xt%sb%6%10%147%96%
+20:09:19 [Debug] > Received %xt%s%u#sb%6%158%92% from IP: 127.0.0.1
+20:09:19 [Debug] > Outgoing: %xt%sb%6%10%158%92%
+20:09:19 [Debug] > Received %xt%s%u#sb%6%160%83% from IP: 127.0.0.1
+20:09:19 [Debug] > Outgoing: %xt%sb%6%10%160%83%
+20:09:21 [Debug] > Received %xt%s%u#sb%6%131%78% from IP: 127.0.0.1
+20:09:21 [Debug] > Outgoing: %xt%sb%6%10%131%78%
+20:09:21 [Debug] > Received %xt%s%u#sb%6%134%77% from IP: 127.0.0.1
+20:09:21 [Debug] > Outgoing: %xt%sb%6%10%134%77%
+20:09:21 [Debug] > Received %xt%s%u#sp%6%122%227% from IP: 127.0.0.1
+20:09:21 [Debug] > Outgoing: %xt%sp%6%10%122%227%
+20:09:21 [Debug] > Received %xt%s%u#sb%6%135%84% from IP: 127.0.0.1
+20:09:21 [Debug] > Outgoing: %xt%sb%6%10%135%84%
+20:09:22 [Debug] > Received %xt%s%u#sb%6%145%88% from IP: 127.0.0.1
+20:09:22 [Debug] > Outgoing: %xt%sb%6%10%145%88%
+20:09:22 [Debug] > Received %xt%s%u#sb%6%154%92% from IP: 127.0.0.1
+20:09:22 [Debug] > Outgoing: %xt%sb%6%10%154%92%
+20:09:22 [Debug] > Received %xt%s%u#sb%6%138%77% from IP: 127.0.0.1
+20:09:22 [Debug] > Outgoing: %xt%sb%6%10%138%77%
+20:09:22 [Debug] > Received %xt%s%u#sb%6%152%94% from IP: 127.0.0.1
+20:09:22 [Debug] > Outgoing: %xt%sb%6%10%152%94%
+20:09:23 [Debug] > Received %xt%s%u#sb%6%155%101% from IP: 127.0.0.1
+20:09:23 [Debug] > Outgoing: %xt%sb%6%10%155%101%
+20:09:23 [Debug] > Received %xt%s%u#sb%6%163%84% from IP: 127.0.0.1
+20:09:23 [Debug] > Outgoing: %xt%sb%6%10%163%84%
+20:09:23 [Debug] > Received %xt%s%u#sb%6%149%100% from IP: 127.0.0.1
+20:09:23 [Debug] > Outgoing: %xt%sb%6%10%149%100%
+20:09:24 [Debug] > Received %xt%s%u#sb%6%164%91% from IP: 127.0.0.1
+20:09:24 [Debug] > Outgoing: %xt%sb%6%10%164%91%
+20:09:24 [Debug] > Received %xt%s%u#sb%6%162%92% from IP: 127.0.0.1
+20:09:24 [Debug] > Outgoing: %xt%sb%6%10%162%92%
+20:09:24 [Debug] > Received %xt%s%u#sb%6%161%83% from IP: 127.0.0.1
+20:09:24 [Debug] > Outgoing: %xt%sb%6%10%161%83%
+20:09:26 [Debug] > Received %xt%s%u#sb%6%354%259% from IP: 127.0.0.1
+20:09:26 [Debug] > Outgoing: %xt%sb%6%10%354%259%
+20:09:28 [Debug] > Received %xt%s%u#sb%6%142%77% from IP: 127.0.0.1
+20:09:28 [Debug] > Outgoing: %xt%sb%6%10%142%77%
+20:09:31 [Debug] > Received %xt%s%u#sp%6%133%227% from IP: 127.0.0.1
+20:09:31 [Debug] > Outgoing: %xt%sp%6%10%133%227%
+20:09:32 [Debug] > Received %xt%s%u#sp%6%345%274% from IP: 127.0.0.1
+20:09:32 [Debug] > Outgoing: %xt%sp%6%10%345%274%
+20:09:33 [Debug] > Received %xt%s%u#sp%6%334%329% from IP: 127.0.0.1
+20:09:33 [Debug] > Outgoing: %xt%sp%6%10%334%329%
+20:09:35 [Debug] > Received %xt%s%u#sb%6%146%63% from IP: 127.0.0.1
+20:09:35 [Debug] > Outgoing: %xt%sb%6%10%146%63%
+20:09:37 [Debug] > Received %xt%s%u#sb%6%141%70% from IP: 127.0.0.1
+20:09:37 [Debug] > Outgoing: %xt%sb%6%10%141%70%
+20:09:38 [Debug] > Received %xt%s%u#sb%6%156%79% from IP: 127.0.0.1
+20:09:38 [Debug] > Outgoing: %xt%sb%6%10%156%79%
+20:09:38 [Debug] > Received %xt%s%u#sb%6%138%63% from IP: 127.0.0.1
+20:09:38 [Debug] > Outgoing: %xt%sb%6%10%138%63%
+20:09:39 [Debug] > Received %xt%s%u#sb%6%154%76% from IP: 127.0.0.1
+20:09:39 [Debug] > Outgoing: %xt%sb%6%10%154%76%
+20:09:39 [Debug] > Received %xt%s%u#sb%6%144%67% from IP: 127.0.0.1
+20:09:39 [Debug] > Outgoing: %xt%sb%6%10%144%67%
+20:09:39 [Debug] > Received %xt%s%u#sb%6%155%62% from IP: 127.0.0.1
+20:09:39 [Debug] > Outgoing: %xt%sb%6%10%155%62%
+20:09:39 [Debug] > Received %xt%s%u#sb%6%144%64% from IP: 127.0.0.1
+20:09:39 [Debug] > Outgoing: %xt%sb%6%10%144%64%
+20:09:40 [Debug] > Received %xt%s%u#sb%6%137%62% from IP: 127.0.0.1
+20:09:40 [Debug] > Outgoing: %xt%sb%6%10%137%62%
+20:09:40 [Debug] > Received %xt%s%u#sb%6%150%63% from IP: 127.0.0.1
+20:09:40 [Debug] > Outgoing: %xt%sb%6%10%150%63%
+20:09:40 [Debug] > Received %xt%s%u#sb%6%141%65% from IP: 127.0.0.1
+20:09:40 [Debug] > Outgoing: %xt%sb%6%10%141%65%
+20:09:41 [Debug] > Received %xt%s%u#sb%6%137%78% from IP: 127.0.0.1
+20:09:41 [Debug] > Outgoing: %xt%sb%6%10%137%78%
+20:09:41 [Debug] > Received %xt%s%u#sb%6%148%65% from IP: 127.0.0.1
+20:09:41 [Debug] > Outgoing: %xt%sb%6%10%148%65%
+20:09:41 [Debug] > Received %xt%s%u#sb%6%142%72% from IP: 127.0.0.1
+20:09:41 [Debug] > Outgoing: %xt%sb%6%10%142%72%
+20:09:42 [Debug] > Received %xt%s%u#sb%6%136%82% from IP: 127.0.0.1
+20:09:42 [Debug] > Outgoing: %xt%sb%6%10%136%82%
+20:09:42 [Debug] > Received %xt%s%u#sb%6%146%78% from IP: 127.0.0.1
+20:09:42 [Debug] > Outgoing: %xt%sb%6%10%146%78%
+20:09:42 [Debug] > Received %xt%s%u#sb%6%140%68% from IP: 127.0.0.1
+20:09:43 [Debug] > Outgoing: %xt%sb%6%10%140%68%
+20:09:43 [Debug] > Received %xt%s%u#sb%6%143%69% from IP: 127.0.0.1
+20:09:43 [Debug] > Outgoing: %xt%sb%6%10%143%69%
+20:09:43 [Debug] > Received %xt%s%u#sb%6%151%64% from IP: 127.0.0.1
+20:09:43 [Debug] > Outgoing: %xt%sb%6%10%151%64%
+20:09:43 [Debug] > Received %xt%s%u#sb%6%146%78% from IP: 127.0.0.1
+20:09:44 [Debug] > Outgoing: %xt%sb%6%10%146%78%
+20:09:44 [Debug] > Received %xt%s%u#sb%6%150%71% from IP: 127.0.0.1
+20:09:44 [Debug] > Outgoing: %xt%sb%6%10%150%71%
+20:09:45 [Debug] > Received %xt%s%u#sb%6%329%321% from IP: 127.0.0.1
+20:09:45 [Debug] > Outgoing: %xt%sb%6%10%329%321%
+20:09:47 [Debug] > Received %xt%s%g#gr%6% from IP: 127.0.0.1
+20:09:47 [Debug] > Outgoing: %xt%gr%6%
+20:09:47 [Debug] > Received %xt%s%i#qpp%-1%10% from IP: 127.0.0.1
+20:09:48 [Debug] > Outgoing: %xt%qpp%-1%523|1519963788|0%
+20:09:48 [Debug] > Received %xt%s%st#gsbcd%-1%10% from IP: 127.0.0.1
+20:09:48 [Debug] > Outgoing: %xt%gsbcd%-1%1%1%1%1%
+20:09:48 [Debug] > Received %xt%s%st#gps%-1%10% from IP: 127.0.0.1
+20:09:48 [Debug] > Outgoing: %xt%gps%-1%10%7%
+20:09:48 [Debug] > Received %xt%s%i#qpa%-1%10% from IP: 127.0.0.1
+20:09:48 [Debug] > Outgoing: %xt%qpa%-1%10%%
+20:09:48 [Debug] > Received %xt%s%st#gmres%-1% from IP: 127.0.0.1
+20:09:48 [Debug] > Outgoing: %xt%gmres%-1%%
+20:09:57 [Debug] > Received %xt%s%u#h%6% from IP: 127.0.0.1
+20:09:57 [Debug] > Outgoing: %xt%h%6%
+20:10:31 [Debug] > Received %xt%s%u#sp%6%472%242% from IP: 127.0.0.1
+20:10:31 [Debug] > Outgoing: %xt%sp%6%10%472%242%
+20:10:39 [Debug] > Received %xt%s%u#sp%6%319%294% from IP: 127.0.0.1
+20:10:39 [Debug] > Outgoing: %xt%sp%6%10%319%294%
+20:10:40 [Debug] > Received %xt%s%u#sb%6%128%78% from IP: 127.0.0.1
+20:10:40 [Debug] > Outgoing: %xt%sb%6%10%128%78%
+20:10:41 [Debug] > Received %xt%s%u#sp%6%298%227% from IP: 127.0.0.1
+20:10:41 [Debug] > Outgoing: %xt%sp%6%10%298%227%
+20:10:41 [Debug] > Received %xt%s%u#sp%6%298%227% from IP: 127.0.0.1
+20:10:41 [Debug] > Outgoing: %xt%sp%6%10%298%227%
+20:10:41 [Debug] > Received %xt%s%u#sp%6%298%227% from IP: 127.0.0.1
+20:10:41 [Debug] > Outgoing: %xt%sp%6%10%298%227%
+20:10:41 [Debug] > Received %xt%s%u#sp%6%299%227% from IP: 127.0.0.1
+20:10:41 [Debug] > Outgoing: %xt%sp%6%10%299%227%
+20:10:42 [Debug] > Received %xt%s%u#sb%6%139%68% from IP: 127.0.0.1
+20:10:42 [Debug] > Outgoing: %xt%sb%6%10%139%68%
+20:10:43 [Debug] > Received %xt%s%u#sb%6%137%81% from IP: 127.0.0.1
+20:10:43 [Debug] > Outgoing: %xt%sb%6%10%137%81%
+20:10:43 [Debug] > Received %xt%s%u#sb%6%148%72% from IP: 127.0.0.1
+20:10:43 [Debug] > Outgoing: %xt%sb%6%10%148%72%
+20:10:46 [Debug] > Received %xt%s%u#sb%6%135%82% from IP: 127.0.0.1
+20:10:46 [Debug] > Outgoing: %xt%sb%6%10%135%82%
+20:10:46 [Debug] > Received %xt%s%u#sb%6%148%70% from IP: 127.0.0.1
+20:10:46 [Debug] > Outgoing: %xt%sb%6%10%148%70%
+20:10:46 [Debug] > Received %xt%s%u#sb%6%149%74% from IP: 127.0.0.1
+20:10:46 [Debug] > Outgoing: %xt%sb%6%10%149%74%
+20:10:46 [Debug] > Received %xt%s%u#sb%6%136%80% from IP: 127.0.0.1
+20:10:46 [Debug] > Outgoing: %xt%sb%6%10%136%80%
+20:10:46 [Debug] > Received %xt%s%u#sb%6%137%76% from IP: 127.0.0.1
+20:10:46 [Debug] > Outgoing: %xt%sb%6%10%137%76%
+20:10:47 [Debug] > Received %xt%s%u#sb%6%137%81% from IP: 127.0.0.1
+20:10:47 [Debug] > Outgoing: %xt%sb%6%10%137%81%
+20:10:47 [Debug] > Received %xt%s%u#sb%6%135%79% from IP: 127.0.0.1
+20:10:47 [Debug] > Outgoing: %xt%sb%6%10%135%79%
+20:10:48 [Debug] > Received %xt%s%u#sb%6%135%67% from IP: 127.0.0.1
+20:10:48 [Debug] > Outgoing: %xt%sb%6%10%135%67%
+20:10:48 [Debug] > Received %xt%s%u#sb%6%148%79% from IP: 127.0.0.1
+20:10:48 [Debug] > Outgoing: %xt%sb%6%10%148%79%
+20:10:48 [Debug] > Received %xt%s%u#sb%6%143%74% from IP: 127.0.0.1
+20:10:48 [Debug] > Outgoing: %xt%sb%6%10%143%74%
+20:10:49 [Debug] > Received %xt%s%u#sb%6%151%83% from IP: 127.0.0.1
+20:10:49 [Debug] > Outgoing: %xt%sb%6%10%151%83%
+20:10:49 [Debug] > Received %xt%s%u#sb%6%133%77% from IP: 127.0.0.1
+20:10:49 [Debug] > Outgoing: %xt%sb%6%10%133%77%
+20:10:49 [Debug] > Received %xt%s%u#sb%6%150%72% from IP: 127.0.0.1
+20:10:49 [Debug] > Outgoing: %xt%sb%6%10%150%72%
+20:10:49 [Debug] > Received %xt%s%u#sb%6%138%67% from IP: 127.0.0.1
+20:10:50 [Debug] > Outgoing: %xt%sb%6%10%138%67%
+20:10:50 [Debug] > Received %xt%s%u#sb%6%135%67% from IP: 127.0.0.1
+20:10:50 [Debug] > Outgoing: %xt%sb%6%10%135%67%
+20:10:51 [Debug] > Received %xt%s%u#sp%6%386%229% from IP: 127.0.0.1
+20:10:51 [Debug] > Outgoing: %xt%sp%6%10%386%229%
+20:10:54 [Debug] > Received %xt%s%u#sp%6%391%277% from IP: 127.0.0.1
+20:10:54 [Debug] > Outgoing: %xt%sp%6%10%391%277%
+20:10:57 [Debug] > Received %xt%s%u#h%6% from IP: 127.0.0.1
+20:10:57 [Debug] > Outgoing: %xt%h%6%
+20:10:59 [Debug] > Received %xt%s%u#sp%6%380%227% from IP: 127.0.0.1
+20:10:59 [Debug] > Outgoing: %xt%sp%6%10%380%227%
+20:11:02 [Debug] > Received %xt%s%u#sp%6%151%256% from IP: 127.0.0.1
+20:11:02 [Debug] > Outgoing: %xt%sp%6%10%151%256%
+20:11:03 [Debug] > Received %xt%s%u#sp%6%112%275% from IP: 127.0.0.1
+20:11:03 [Debug] > Outgoing: %xt%sp%6%10%112%275%
+20:11:04 [Debug] > Received %xt%s%u#sp%6%116%272% from IP: 127.0.0.1
+20:11:04 [Debug] > Outgoing: %xt%sp%6%10%116%272%
+20:11:08 [Debug] > Received %xt%s%u#sp%6%191%338% from IP: 127.0.0.1
+20:11:08 [Debug] > Outgoing: %xt%sp%6%10%191%338%
+20:11:11 [Debug] > Received %xt%s%u#sp%6%361%338% from IP: 127.0.0.1
+20:11:12 [Debug] > Outgoing: %xt%sp%6%10%361%338%
+20:11:12 [Debug] > Received %xt%s%u#sp%6%643%384% from IP: 127.0.0.1
+20:11:12 [Debug] > Outgoing: %xt%sp%6%10%643%384%
+20:11:23 [Debug] > Received %xt%s%j#jr%6%803%0%0% from IP: 127.0.0.1
+20:11:24 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:24 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:24 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:24 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:30 [Debug] > Received %xt%s%j#jr%42%210%0%0% from IP: 127.0.0.1
+20:11:30 [Debug] > Outgoing: %xt%jr%9%210%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:30 [Debug] > Outgoing: %xt%ap%9%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:30 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:30 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:31 [Debug] > Received %xt%s%u#sp%9%230%270% from IP: 127.0.0.1
+20:11:31 [Debug] > Outgoing: %xt%sp%9%10%230%270%
+20:11:33 [Debug] > Received %xt%s%j#jr%9%803%120%360% from IP: 127.0.0.1
+20:11:34 [Debug] > Outgoing: %xt%jr%42%803%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|120|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:34 [Debug] > Outgoing: %xt%ap%42%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|120|360|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:34 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:34 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:41 [Debug] > Received %xt%s%j#jr%42%340%0%0% from IP: 127.0.0.1
+20:11:41 [Debug] > Outgoing: %xt%jr%23%340%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:41 [Debug] > Outgoing: %xt%ap%23%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:41 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:41 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:43 [Debug] > Received %xt%s%u#sp%23%80%325% from IP: 127.0.0.1
+20:11:43 [Debug] > Outgoing: %xt%sp%23%10%80%325%
+20:11:43 [Debug] > Received %xt%s%j#jr%23%300%420%250% from IP: 127.0.0.1
+20:11:43 [Debug] > Outgoing: %xt%jr%14%300%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|420|250|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:43 [Debug] > Outgoing: %xt%ap%14%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|420|250|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:43 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:43 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:44 [Debug] > Received %xt%s%u#sp%14%423%213% from IP: 127.0.0.1
+20:11:44 [Debug] > Outgoing: %xt%sp%14%10%423%213%
+20:11:44 [Debug] > Received %xt%s%u#sp%14%397%223% from IP: 127.0.0.1
+20:11:44 [Debug] > Outgoing: %xt%sp%14%10%397%223%
+20:11:46 [Debug] > Received %xt%s%u#sp%14%386%279% from IP: 127.0.0.1
+20:11:46 [Debug] > Outgoing: %xt%sp%14%10%386%279%
+20:11:47 [Debug] > Received %xt%s%u#sp%14%365%230% from IP: 127.0.0.1
+20:11:47 [Debug] > Outgoing: %xt%sp%14%10%365%230%
+20:11:47 [Debug] > Received %xt%s%j#jr%14%340%105%330% from IP: 127.0.0.1
+20:11:47 [Debug] > Outgoing: %xt%jr%23%340%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|105|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:47 [Debug] > Outgoing: %xt%ap%23%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|105|330|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:11:47 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:11:48 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:11:49 [Debug] > Received %xt%s%u#sp%23%419%382% from IP: 127.0.0.1
+20:11:49 [Debug] > Outgoing: %xt%sp%23%10%419%382%
+20:11:50 [Debug] > Received %xt%s%u#sp%23%408%398% from IP: 127.0.0.1
+20:11:50 [Debug] > Outgoing: %xt%sp%23%10%408%398%
+20:11:54 [Debug] > Received %xt%s%u#sp%23%344%398% from IP: 127.0.0.1
+20:11:54 [Debug] > Outgoing: %xt%sp%23%10%344%398%
+20:11:57 [Debug] > Received %xt%s%u#h%23% from IP: 127.0.0.1
+20:11:57 [Debug] > Outgoing: %xt%h%23%
+20:12:57 [Debug] > Received %xt%s%u#h%23% from IP: 127.0.0.1
+20:12:57 [Debug] > Outgoing: %xt%h%23%
+20:13:21 [Debug] > Received %xt%s%u#sp%23%331%149% from IP: 127.0.0.1
+20:13:21 [Debug] > Outgoing: %xt%sp%23%10%331%149%
+20:13:23 [Debug] > Received %xt%s%u#sp%23%377%401% from IP: 127.0.0.1
+20:13:23 [Debug] > Outgoing: %xt%sp%23%10%377%401%
+20:13:28 [Debug] > Received %xt%s%j#jr%23%807%0%0% from IP: 127.0.0.1
+20:13:28 [Debug] > Outgoing: %xt%jr%46%807%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:28 [Debug] > Outgoing: %xt%ap%46%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:28 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:13:28 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:13:29 [Debug] > Received %xt%s%u#sp%46%415%259% from IP: 127.0.0.1
+20:13:29 [Debug] > Outgoing: %xt%sp%46%10%415%259%
+20:13:30 [Debug] > Received %xt%s%j#jr%46%808%588%286% from IP: 127.0.0.1
+20:13:30 [Debug] > Outgoing: %xt%jr%47%808%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|588|286|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:30 [Debug] > Outgoing: %xt%ap%47%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|588|286|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:30 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:13:30 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:13:30 [Debug] > Received %xt%s%u#sp%47%382%189% from IP: 127.0.0.1
+20:13:30 [Debug] > Outgoing: %xt%sp%47%10%382%189%
+20:13:31 [Debug] > Received %xt%s%u#sp%47%432%176% from IP: 127.0.0.1
+20:13:31 [Debug] > Outgoing: %xt%sp%47%10%432%176%
+20:13:31 [Debug] > Received %xt%s%u#sp%47%430%175% from IP: 127.0.0.1
+20:13:31 [Debug] > Outgoing: %xt%sp%47%10%430%175%
+20:13:31 [Debug] > Received %xt%s%u#sp%47%429%175% from IP: 127.0.0.1
+20:13:31 [Debug] > Outgoing: %xt%sp%47%10%429%175%
+20:13:32 [Debug] > Received %xt%s%u#sp%47%427%174% from IP: 127.0.0.1
+20:13:32 [Debug] > Outgoing: %xt%sp%47%10%427%174%
+20:13:33 [Debug] > Received %xt%s%u#sp%47%394%262% from IP: 127.0.0.1
+20:13:33 [Debug] > Outgoing: %xt%sp%47%10%394%262%
+20:13:33 [Debug] > Received %xt%s%u#sp%47%389%167% from IP: 127.0.0.1
+20:13:34 [Debug] > Outgoing: %xt%sp%47%10%389%167%
+20:13:37 [Debug] > Received %xt%s%j#jr%47%809%0%0% from IP: 127.0.0.1
+20:13:37 [Debug] > Outgoing: %xt%jr%48%809%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:38 [Debug] > Outgoing: %xt%ap%48%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:38 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:13:38 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:13:38 [Debug] > Received %xt%s%u#sp%48%69%333% from IP: 127.0.0.1
+20:13:38 [Debug] > Outgoing: %xt%sp%48%10%69%333%
+20:13:40 [Debug] > Received %xt%s%u#sp%48%150%350% from IP: 127.0.0.1
+20:13:40 [Debug] > Outgoing: %xt%sp%48%10%150%350%
+20:13:41 [Debug] > Received %xt%s%u#sp%48%164%303% from IP: 127.0.0.1
+20:13:41 [Debug] > Outgoing: %xt%sp%48%10%164%303%
+20:13:44 [Debug] > Received %xt%s%j#jr%48%400%0%0% from IP: 127.0.0.1
+20:13:44 [Debug] > Outgoing: %xt%jr%24%400%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:44 [Debug] > Outgoing: %xt%ap%24%10|onetestyboi|45|1|0|0|0|0|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+20:13:44 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+20:13:44 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+20:13:48 [Debug] > Removing penguino
+20:13:48 [Debug] > Penguino found! Removing
+01:56:02 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:02 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:02 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:02 [Debug] > 
+01:56:02 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:02 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:02 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot1]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:02 [Debug] > Adding penguino
+01:56:02 [Debug] > New database created
+01:56:02 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:02 [Debug] > Removing penguino
+01:56:02 [Debug] > Penguino found! Removing
+01:56:07 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:07 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:07 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:07 [Debug] > 
+01:56:08 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:08 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:08 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot2]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:08 [Debug] > Adding penguino
+01:56:08 [Debug] > New database created
+01:56:08 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:08 [Debug] > Removing penguino
+01:56:08 [Debug] > Penguino found! Removing
+01:56:12 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:12 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:13 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:13 [Debug] > 
+01:56:13 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:13 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:13 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot3]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:13 [Debug] > Adding penguino
+01:56:13 [Debug] > New database created
+01:56:13 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:13 [Debug] > Removing penguino
+01:56:13 [Debug] > Penguino found! Removing
+01:56:17 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:17 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:17 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:17 [Debug] > 
+01:56:17 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:17 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:17 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot4]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:17 [Debug] > Adding penguino
+01:56:18 [Debug] > New database created
+01:56:18 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:18 [Debug] > Removing penguino
+01:56:18 [Debug] > Penguino found! Removing
+01:56:23 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:23 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:23 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:23 [Debug] > 
+01:56:23 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:24 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:24 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot5]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:24 [Debug] > Adding penguino
+01:56:24 [Debug] > New database created
+01:56:24 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:24 [Debug] > Removing penguino
+01:56:24 [Debug] > Penguino found! Removing
+01:56:29 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:29 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:29 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:29 [Debug] > 
+01:56:29 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:29 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:29 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot6]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:29 [Debug] > Adding penguino
+01:56:29 [Debug] > New database created
+01:56:29 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:29 [Debug] > Removing penguino
+01:56:29 [Debug] > Penguino found! Removing
+01:56:33 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:34 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:34 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:34 [Debug] > 
+01:56:34 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:34 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:34 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot7]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:34 [Debug] > Adding penguino
+01:56:34 [Debug] > New database created
+01:56:34 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:34 [Debug] > Removing penguino
+01:56:34 [Debug] > Penguino found! Removing
+01:56:38 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:38 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:38 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:38 [Debug] > 
+01:56:38 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:38 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:39 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot8]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:39 [Debug] > Adding penguino
+01:56:39 [Debug] > New database created
+01:56:39 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:39 [Debug] > Removing penguino
+01:56:39 [Debug] > Penguino found! Removing
+01:56:42 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:42 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:42 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:42 [Debug] > 
+01:56:43 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:43 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:43 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot9]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:43 [Debug] > Adding penguino
+01:56:43 [Debug] > New database created
+01:56:43 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:43 [Debug] > Removing penguino
+01:56:43 [Debug] > Penguino found! Removing
+01:56:47 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:56:47 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:56:47 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:56:47 [Debug] > 
+01:56:47 [Debug] > e4a2dbcca10a7246817a83cd
+01:56:47 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:56:48 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot10]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+01:56:48 [Debug] > Adding penguino
+01:56:48 [Debug] > New database created
+01:56:48 [Debug] > Outgoing: %xt%e%-1%101%
+01:56:48 [Debug] > Removing penguino
+01:56:48 [Debug] > Penguino found! Removing
+01:57:00 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+01:57:00 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+01:57:00 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+01:57:01 [Debug] > 
+01:57:01 [Debug] > e4a2dbcca10a7246817a83cd
+01:57:01 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+01:57:01 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[]]></nick><pword><![CDATA[b14bc5897ec0d93c8fff3404411be02e]]></pword></login></body></msg> from IP: 127.0.0.1
+01:57:01 [Debug] > Adding penguino
+01:57:01 [Debug] > New database created
+02:06:20 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+02:06:20 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6112' /></cross-domain-policy>
+02:06:20 [Debug] > Removing penguino
+02:06:21 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+02:06:21 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:06:21 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+02:06:21 [Debug] > 
+02:06:21 [Debug] > e4a2dbcca10a7246817a83cd
+02:06:21 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:06:21 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+02:06:21 [Debug] > Adding penguino
+02:06:21 [Debug] > New database created
+02:06:22 [Debug] > Outgoing: %xt%l%-1%2%249fd8bd91d1d517545a8f00a51839ea%%100,1%
+02:06:22 [Debug] > Removing penguino
+02:06:22 [Debug] > Penguino found! Removing
+02:07:08 [Debug] > Received <policy-file-request/> from IP: 127.0.0.1
+02:07:09 [Debug] > Outgoing: <cross-domain-policy><allow-access-from domain='*' to-ports='6113' /></cross-domain-policy>
+02:07:09 [Debug] > Removing penguino
+02:07:09 [Debug] > Received <msg t='sys'><body action='verChk' r='0'><ver v='153' /></body></msg> from IP: 127.0.0.1
+02:07:09 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:07:09 [Debug] > Received <msg t='sys'><body action='rndK' r='-1'></body></msg> from IP: 127.0.0.1
+02:07:09 [Debug] > 
+02:07:09 [Debug] > e4a2dbcca10a7246817a83cd
+02:07:09 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:07:09 [Debug] > Received <msg t='sys'><body action='login' r='0'><login z='w1'><nick><![CDATA[jamioe]]></nick><pword><![CDATA[c232533cb2797dfa52840e2a35920011249fd8bd91d1d517545a8f00a51839ea]]></pword></login></body></msg> from IP: 127.0.0.1
+02:07:09 [Debug] > Adding penguino
+02:07:09 [Debug] > New database created
+02:07:09 [Debug] > Outgoing: %xt%l%-1%
+02:07:09 [Debug] > Received %xt%s%j#js%-1%2%249fd8bd91d1d517545a8f00a51839ea%en% from IP: 127.0.0.1
+02:07:10 [Debug] > Outgoing: %xt%activefeatures%-1%
+02:07:10 [Debug] > Outgoing: %xt%js%-1%1%1%0%1%
+02:07:10 [Debug] > Outgoing: %xt%gps%-1%2%7104|93|102|95|101|105|112|10|75|77|214|202|48|37|9|13|97|82|51%
+02:07:10 [Debug] > Outgoing: %xt%lp%-1%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0||1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff||||%43104%0%1440%1519985230%7%0%346%%7%%1%0%211843%
+02:07:10 [Debug] > Outgoing: %xt%glr%-1%3239%
+02:07:10 [Debug] > Outgoing: %xt%mst%-1%0%5%
+02:07:10 [Debug] > Outgoing: %xt%mg%-1%%
+02:07:10 [Debug] > Outgoing: %xt%jr%2%110%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+02:07:10 [Debug] > Outgoing: %xt%ap%2%2|jamioe|45|15|0|104|0|4034|0|0|0|0|0|0|1|1|146|0|0|{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}||||||||Hello, I'm New!|||||0xffffff||||0xffffff|||%
+02:07:10 [Debug] > Received %xt%s%i#gi%-1% from IP: 127.0.0.1
+02:07:10 [Debug] > Outgoing: %xt%gi%-1%%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15%703%821%801%800%609%813%4033%104%4034%5040%
+02:07:10 [Debug] > Received %xt%s%b#gb%-1% from IP: 127.0.0.1
+02:07:10 [Debug] > Outgoing: %xt%gb%2%
+02:07:10 [Debug] > Received %xt%s%n#gn%-1% from IP: 127.0.0.1
+02:07:10 [Debug] > Outgoing: %xt%gn%2%
+02:07:11 [Debug] > Received %xt%s%l#mst%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%mst%-1%0%18%
+02:07:11 [Debug] > Received %xt%s%l#mg%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%mg%-1%sys|0|111|these|1519790116|18%sys|0|111|of|1519790107|17%sys|0|111|many|1519790103|16%sys|0|111|how|1519790099|15%sys|0|111|tamps|1519790095|14%sys|0|111|testingfor|1519790091|13%sys|0|111|lolno|1519790085|12%sys|0|111|69xd|1519790079|11%sys|0|111|ugood|1519790075|10%sys|0|111|agae|1519790069|9%sys|0|111|23|1519789736|8%sys|0|111|xd|1519789733|7%sys|0|111|4|1519724635|6%sys|0|111|3|1519724631|5%sys|0|111|2|1519724628|4%sys|0|111|1|1519724622|3%sys|0|111|a|1519724540|2%sys|0|111|no|1519432730|1%
+02:07:11 [Debug] > Received %xt%s%p#pgu%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%pgu%2%1|no|0|100|100|100|0%2|a|5|100|100|100|0%3|1|0|100|100|100|0%4|2|1|100|100|100|0%5|3|2|100|100|100|0%6|4|3|100|100|100|0%7|xd|4|100|100|100|0%8|23|7|100|100|100|0%9|agae|8|100|100|100|0%10|ugood|8|100|100|100|0%11|69xd|8|100|100|100|0%12|lolno|8|100|100|100|0%13|testingfor|8|100|100|100|0%14|tamps|8|100|100|100|0%15|how|8|100|100|100|0%16|many|8|100|100|100|0%17|of|8|100|100|100|0%18|these|8|100|100|100|0%
+02:07:11 [Debug] > Received %xt%s%u#glr%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%glr%-1%10915%
+02:07:11 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+02:07:11 [Debug] > Received %xt%s%i#qpa%-1%2% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%qpa%-1%2%%
+02:07:11 [Debug] > Received %xt%s%f#epfga%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%epfga%-1%1%
+02:07:11 [Debug] > Received %xt%s%f#epfgr%-1% from IP: 127.0.0.1
+02:07:11 [Debug] > Outgoing: %xt%epfgr%-1%0%0%
+02:07:12 [Debug] > Received %xt%s%f#epfgf%-1% from IP: 127.0.0.1
+02:07:12 [Debug] > Outgoing: %xt%epfgf%-1%1%
+02:07:12 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:12 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:12 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:12 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:13 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:13 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:13 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:13 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:13 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:13 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:13 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:13 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:13 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:13 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:14 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:14 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:14 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:14 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:14 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:14 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:14 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:15 [Debug] > Received %xt%s%u#sf%2%26% from IP: 127.0.0.1
+02:07:15 [Debug] > Outgoing: %xt%sf%2%2%26%
+02:07:15 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:15 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:15 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:15 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:15 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:15 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:15 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:15 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:16 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:16 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:16 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:16 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:16 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:16 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:16 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:16 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:16 [Debug] > Received %xt%s%u#sa%2%25% from IP: 127.0.0.1
+02:07:16 [Debug] > Outgoing: %xt%sa%2%2%25%
+02:07:17 [Debug] > Received %xt%s%u#sf%2%18% from IP: 127.0.0.1
+02:07:17 [Debug] > Outgoing: %xt%sf%2%2%18%
+02:07:34 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:07:34 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:07:34 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:07:34 [Debug] > 
+02:07:34 [Debug] > e4a2dbcca10a7246817a83cd
+02:07:34 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:07:34 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot1]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+02:07:34 [Debug] > Adding penguino
+02:07:34 [Debug] > Outgoing: %xt%e%-1%101%
+02:07:34 [Debug] > Removing penguino
+02:07:34 [Debug] > Penguino found! Removing
+02:07:56 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:07:56 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:07:56 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:07:56 [Debug] > 
+02:07:56 [Debug] > e4a2dbcca10a7246817a83cd
+02:07:56 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:07:56 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot10]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+02:07:56 [Debug] > Adding penguino
+02:07:57 [Debug] > Outgoing: %xt%e%-1%101%
+02:07:57 [Debug] > Removing penguino
+02:07:57 [Debug] > Penguino found! Removing
+02:08:10 [Debug] > Received %xt%s%u#h%2% from IP: 127.0.0.1
+02:08:10 [Debug] > Outgoing: %xt%h%2%
+02:08:20 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:08:20 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:08:21 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:08:21 [Debug] > 
+02:08:21 [Debug] > e4a2dbcca10a7246817a83cd
+02:08:21 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:08:21 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[bot1]]></nick><pword><![CDATA[75cc9dc22ca0076748d4db4f3f7348cf]]></pword></login></body></msg> from IP: 127.0.0.1
+02:08:21 [Debug] > Adding penguino
+02:08:21 [Debug] > Outgoing: %xt%e%-1%101%
+02:08:21 [Debug] > Removing penguino
+02:08:21 [Debug] > Penguino found! Removing
+02:08:58 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:08:58 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:08:58 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:08:58 [Debug] > 
+02:08:58 [Debug] > e4a2dbcca10a7246817a83cd
+02:08:58 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:08:58 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+02:08:58 [Debug] > Adding penguino
+02:08:58 [Debug] > Outgoing: %xt%e%-1%101%
+02:08:58 [Debug] > Removing penguino
+02:08:58 [Debug] > Penguino found! Removing
+02:09:10 [Debug] > Received %xt%s%u#h%2% from IP: 127.0.0.1
+02:09:10 [Debug] > Outgoing: %xt%h%2%
+02:10:10 [Debug] > Received %xt%s%u#h%2% from IP: 127.0.0.1
+02:10:10 [Debug] > Outgoing: %xt%h%2%
+02:10:30 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:10:30 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:10:30 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:10:30 [Debug] > 
+02:10:30 [Debug] > e4a2dbcca10a7246817a83cd
+02:10:30 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:10:31 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+02:10:31 [Debug] > Adding penguino
+02:10:31 [Debug] > Outgoing: %xt%e%-1%101%
+02:10:31 [Debug] > Removing penguino
+02:10:31 [Debug] > Penguino found! Removing
+02:11:06 [Debug] > Removing penguino
+02:11:06 [Debug] > Penguino found! Removing
+02:11:57 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:11:57 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:11:57 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:11:57 [Debug] > 
+02:11:57 [Debug] > e4a2dbcca10a7246817a83cd
+02:11:57 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:11:57 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+02:11:57 [Debug] > Adding penguino
+02:11:57 [Debug] > New database created
+02:11:57 [Debug] > Outgoing: %xt%e%-1%101%
+02:11:57 [Debug] > Removing penguino
+02:11:58 [Debug] > Penguino found! Removing
+02:12:45 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:12:45 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:12:45 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:12:45 [Debug] > 
+02:12:45 [Debug] > e4a2dbcca10a7246817a83cd
+02:12:45 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:12:45 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[jamioe]]></nick><pword><![CDATA[4b7c31c968ee4febacd3f707f0ab3e5a]]></pword></login></body></msg> from IP: 127.0.0.1
+02:12:45 [Debug] > Adding penguino
+02:12:45 [Debug] > New database created
+02:12:46 [Debug] > Outgoing: %xt%e%-1%101%
+02:12:46 [Debug] > Removing penguino
+02:12:46 [Debug] > Penguino found! Removing
+02:32:44 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:32:44 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:32:44 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:32:44 [Debug] > 
+02:32:44 [Debug] > e4a2dbcca10a7246817a83cd
+02:32:44 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:32:45 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+02:32:45 [Debug] > Adding penguino
+02:32:45 [Debug] > New database created
+02:32:45 [Debug] > Outgoing: %xt%e%-1%101%
+02:32:45 [Debug] > Removing penguino
+02:32:45 [Debug] > Penguino found! Removing
+02:33:16 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:33:16 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:33:16 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:33:16 [Debug] > 
+02:33:16 [Debug] > e4a2dbcca10a7246817a83cd
+02:33:16 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:33:17 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[28b2b3e7b393046b8910c2353e1e6a36]]></pword></login></body></msg> from IP: 127.0.0.1
+02:33:17 [Debug] > Adding penguino
+02:33:17 [Debug] > New database created
+02:33:17 [Debug] > Outgoing: %xt%e%-1%101%
+02:33:17 [Debug] > Removing penguino
+02:33:17 [Debug] > Penguino found! Removing
+02:33:46 [Debug] > Received <msg t="sys"><body action="verChk" r="0"><ver v="153"/></body></msg> from IP: 127.0.0.1
+02:33:46 [Debug] > Outgoing: <msg t='sys'><body action='apiOK' r='0'></body></msg>
+02:33:46 [Debug] > Received <msg t="sys"><body action="rndK" r="-1"></body></msg> from IP: 127.0.0.1
+02:33:46 [Debug] > 
+02:33:46 [Debug] > e4a2dbcca10a7246817a83cd
+02:33:46 [Debug] > Outgoing: <msg t='sys'><body action='rndK' r='-1'><k>e4a2dbcca10a7246817a83cd</k></body></msg>
+02:33:46 [Debug] > Received <msg t="sys"><body action="login" r="0"><login z="w1"><nick><![CDATA[onetestyboi]]></nick><pword><![CDATA[594eaf35591a88e29dbcc8942804d25e]]></pword></login></body></msg> from IP: 127.0.0.1
+02:33:46 [Debug] > Adding penguino
+02:33:46 [Debug] > New database created
+02:33:46 [Debug] > Outgoing: %xt%e%-1%101%
+02:33:47 [Debug] > Removing penguino
+02:33:47 [Debug] > Penguino found! Removing
