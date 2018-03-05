@@ -2655,3 +2655,21 @@
 01:09:48 [Notice] > 127.0.0.1
 01:09:49 [Notice] > Player disconnected
 01:09:54 [Notice] > jamioe is attempting to login
+10:28:43 [Notice] > [ANTISWEAR]: Successfully loaded 308 bad words
+10:28:43 [Notice] > [MASCOT STAMPS]: Successfully loaded!
+10:28:43 [Notice] > The following items are unavailable: 115, 152, 161, 183, 230, 335, 371, 442, 466, 532, 1000, 1001, 1002, 1003, 1032, 1034, 1044, 1068, 1107, 1200, 2030, 1235, 1273, 1274, 1275, 1384, 1458, 1459, 1476, 1521, 1562, 1682, 1805, 2102, 2113, 1999, 2000, 2007, 2009, 2015, 2034, 2087, 2999, 3011, 3016, 3082, 3130, 3131, 3999, 4022, 4148, 4281, 4365, 4366, 4321, 4383, 4384, 4555, 4690, 4691, 4712, 4752, 4818, 4999, 5000, 5020, 5023, 5024, 5025, 5105, 5106, 5107, 5168, 5169, 5999, 6000, 6078, 6079, 6080, 6127, 6128, 6999 (PatchedItems)
+10:28:43 [Notice] > [ANTISWEAR]: Successfully loaded 308 bad words
+10:28:43 [Notice] > [MASCOT STAMPS]: Successfully loaded!
+10:28:43 [Notice] > The following items are unavailable: 115, 152, 161, 183, 230, 335, 371, 442, 466, 532, 1000, 1001, 1002, 1003, 1032, 1034, 1044, 1068, 1107, 1200, 2030, 1235, 1273, 1274, 1275, 1384, 1458, 1459, 1476, 1521, 1562, 1682, 1805, 2102, 2113, 1999, 2000, 2007, 2009, 2015, 2034, 2087, 2999, 3011, 3016, 3082, 3130, 3131, 3999, 4022, 4148, 4281, 4365, 4366, 4321, 4383, 4384, 4555, 4690, 4691, 4712, 4752, 4818, 4999, 5000, 5020, 5023, 5024, 5025, 5105, 5106, 5107, 5168, 5169, 5999, 6000, 6078, 6079, 6080, 6127, 6128, 6999 (PatchedItems)
+10:32:25 [Notice] > Player disconnected
+10:32:26 [Notice] > jamioe is attempting to login
+10:32:27 [Notice] > New client connected from: 
+10:32:27 [Notice] > 127.0.0.1
+10:32:27 [Notice] > Player disconnected
+10:32:31 [Notice] > jamioe is attempting to login
+10:38:03 [Notice] > Player disconnected
+10:38:03 [Notice] > testing123 is attempting to login
+10:38:04 [Notice] > New client connected from: 
+10:38:04 [Notice] > 127.0.0.1
+10:38:04 [Notice] > Player disconnected
+10:38:09 [Notice] > testing123 is attempting to login

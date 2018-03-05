@@ -101,6 +101,7 @@ class Registration extends PDO {
 
     private function addColors($penguinId) {
     	$insertStatement = $this->prepare("UPDATE `penguins` SET `Inventory` = '%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15' WHERE ID = :Penguin;");
+    	$insertStatement = $this->prepare("UPDATE `penguins` SET `Coins` = '500' WHERE ID = :Penguin;");
     	$insertStatement->bindValue(":Penguin", $penguinId);
     	$insertStatement->execute();
     	$insertStatement->closeCursor();
