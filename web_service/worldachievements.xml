@@ -291,7 +291,47 @@
 		<event>every 2 seconds</event> 
 		<condition>anyWithUser 5 penguins wearing 775 or 10775</condition> 
 		<result>stampEarned 25</result> 
-	</achievement> 
+	</achievement>
+    
+     <achievement name="Soccer Team" id="25.8"> 
+		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                         --> 
+		<event>every 2 seconds</event> 
+		<condition>anyWithUser 5 penguins wearing 4346</condition> 
+		<result>stampEarned 25</result> 
+	</achievement>
+    
+    <achievement name="Soccer Team" id="25.9"> 
+		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                         --> 
+		<event>every 2 seconds</event> 
+		<condition>anyWithUser 5 penguins wearing 4347</condition> 
+		<result>stampEarned 25</result> 
+	</achievement>
+    
+    <achievement name="Soccer Team" id="25.10"> 
+		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                         --> 
+		<event>every 2 seconds</event> 
+		<condition>anyWithUser 5 penguins wearing 4348</condition> 
+		<result>stampEarned 25</result> 
+	</achievement>
+    
+    <achievement name="Soccer Team" id="25.11"> 
+		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                         --> 
+		<event>every 2 seconds</event> 
+		<condition>anyWithUser 5 penguins wearing 4349</condition> 
+		<result>stampEarned 25</result> 
+	</achievement>
+    
+    <achievement name="Soccer Team" id="25.12"> 
+		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                         --> 
+		<event>every 2 seconds</event> 
+		<condition>anyWithUser 5 penguins wearing 4350</condition> 
+		<result>stampEarned 25</result> 
+	</achievement>
     
     <!-- ~~~ 26 - Berg Drill! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
 	
@@ -335,9 +375,9 @@
         <!-- Break this condition down into a periodic check to reduce the chance of      --> 
         <!-- affecting frame rate                                                         --> 
         <event>every 2 seconds</event> 
-        <condition>anyWithUser 5 penguins wearing 277 or 278 or 4143 or 10277 or 14143 or 14204 or 4204</condition> 
+        <condition>anyWithUser 5 penguins wearing 277 or 278 or 4143 or 10277 or 14143 or 14204 or 4204 or 4474 or 4475 or 4476 or 4477 or 4478 or 4479 or 4480 or 4481</condition> 
         <result>stampEarned 29</result> 
-    </achievement> 
+    </achievement>
  
     <!-- ~~~ 30 - Ninja Meeting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
 	
@@ -376,31 +416,37 @@
  
     <!-- ~~~ 182 - Happy Party Room ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
        
-    <achievement name="Happy Party Room" id="182"> 
+    <achievement name="Happy Party Room" id="182">
+		<!-- This stamp is expires on Wed, 05 Sep 2012 23:00:00 GMT     --> 
+        <expiryDate>1346886000</expiryDate>
         <!-- Break this condition down into a periodic check to reduce --> 
         <!-- the chance of affecting frame rate --> 
         <event>every 2 seconds</event> 
-        <condition>user in 851 or 852 or 853 or 854 or 855 or 856</condition> 
+        <condition>user in 100 or 120 or 130 or 300 or 330 or 400 or 800 or 801 or 809 or 810 or 851 or 852 or 853</condition>
         <condition>anyWithUser 10 penguins hasProperty emoteIDDisplayedInCurrentRoom equals 1 or 2</condition> 
         <result>stampEarned 182</result> 
-    </achievement> 
+    </achievement>
  
-    <!-- ~~~ 184 - Tend a concession stand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+    <!-- ~~~ 184 - Tend a concession stand / Snack Shack ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
 	
-	<achievement name="Tend A Concession Stand" id="184"> 
+	<achievement name="Tend A Concession Stand" id="184">
+		<!-- This stamp is expires on  Thurs, 5 June 2014 08:00:00 GMT    --> 
+        <expiryDate>1401955200</expiryDate>
 		<event>user sendEmote</event> 
-		<condition>user in 810 or 300 or 230 or 800</condition> 
-        <condition>user hits popcornsign_mc or orangestand_mc or Fair_IceCream or pizzastand_mc</condition> 
-		<condition>event hasEmoteID 24 or 28 or 29 or 26 or 27</condition> 
+		<condition>user in 861</condition> 
+		<!-- if this doesn't work then we will have to create a variable in the class file that points to background_mc.statueShack_mc in the forest room -->
+        <condition>user hits snacks_mc or burgerShackFront</condition> 
+		<condition>event hasEmoteID 13 or 24 or 28 or 29 or 26 or 27</condition> 
 		<result>stampEarned 184</result> 
-	</achievement> 
+	</achievement>
  
     <!-- ~~~ 187 - Monster Mash ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
  
-	<achievement name="Monster Mash" id="187"> 
+	<achievement name="Monster Mash" id="187">
+        <!-- This stamp is expires on Thu, 03 Nov 2011 05:00:00 GMT     --> 
+        <expiryDate>1320296400</expiryDate>
+        
 		<event>every 2 seconds</event> 
-		
-		<condition>user hasProperty is_member equals 1</condition> 
 		
 		<optionalCondition>user wearing 1185 and 4270</optionalCondition> <!-- Count --> 
 		<optionalCondition>user wearing 1186 and 4271</optionalCondition> <!-- Witch --> 
@@ -411,6 +457,19 @@
 		<optionalCondition>user wearing 246</optionalCondition> <!-- Skeleton --> 
 		<optionalCondition>user wearing 789</optionalCondition> <!-- Mummy Costume --> 
 		<optionalCondition>user wearing 10789</optionalCondition> <!-- Mummy Costume R --> 
+		<optionalCondition>user wearing 1306 and 4428 and 5123 and 6084</optionalCondition> <!-- Green Witch --> 
+		<optionalCondition>user wearing 4430 and 6091 and 1309 and 3089</optionalCondition> <!-- Unicorn --> 
+		<optionalCondition>user wearing 1305 and 3088 and 4427</optionalCondition> <!-- Purple Fairy --> 
+		<optionalCondition>user wearing 4432 and 6086 and 5120</optionalCondition> <!-- Headless Horseman --> 
+		<optionalCondition>user wearing 1307 and 4435 and 6089</optionalCondition> <!-- Werewolf --> 
+		<optionalCondition>user wearing 4429 and 6085</optionalCondition> <!-- Brown Horse --> 
+		<optionalCondition>user wearing 4431 and 5119</optionalCondition> <!-- Ghoul Detector -->
+		<optionalCondition>user wearing 4433</optionalCondition> <!-- Candy Corn Costume --> 
+		<optionalCondition>user wearing 4434</optionalCondition> <!-- Purple Spider Costume --> 
+		<optionalCondition>user wearing 3090</optionalCondition> <!-- Raven Wings --> 
+		<optionalCondition>user wearing 6087</optionalCondition> <!-- Green Dragon Feet --> 
+		<optionalCondition>user wearing 6088</optionalCondition> <!-- Orange Frankenfeet --> 
+		<optionalCondition>user wearing 6090</optionalCondition> <!-- Swamp Monster --> 
 		
 		<!-- Frankenpenguin variations --> 
 		<optionalCondition>user wearing 1013 and 14016</optionalCondition> 
@@ -451,35 +510,221 @@
 		<result>stampEarned 187</result> 
 	</achievement> 
  
-    <!-- ~~~ 189 - Construction ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+   	<!-- ~~~ 189 - Construction ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
     
     <achievement name="Construction" id="189">
-        <!-- This stamp is expires on Thu, 25 Nov 2010 19:00:00 GMT     --> 
-        <expiryDate>1290711600</expiryDate> 
+        <!-- This stamp is expires on Wed, 19 Sep 2012 23:00:00 GMT     --> 
+        <expiryDate>1348095600</expiryDate> 
         
 		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
 		<!-- affecting frame rate                                                         --> 
 		<event>every 2 seconds</event> 
-		<condition>user in 321 or 322 or 816</condition> 
-        <condition>user wearing only 403 or 429 or 674 or 10403 or 1133 or 10429</condition> 
+		<condition>user in 400</condition> 
+        <condition>user wearing only 342 or 5069 or 403 or 10403 or 429 or 10429 or 674 or 1133 or 11133</condition> 
         <condition>user isOnFrame 26</condition> 
         <result>stampEarned 189</result> 
-	</achievement> 
+	</achievement>
  
-    <!-- ~~~ 190 - Explorer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+    <!-- ~~~ 190 - Explorer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
         
     <achievement name="Explorer" id="190">
-	<debug>true</debug> 
-        <!-- This stamp is expires on Thu, 25 Nov 2010 19:00:00 GMT     --> 
-        <expiryDate>1290711600</expiryDate> 
+        <!-- Break this condition down into a periodic check to reduce the chance of      --> 
+		<!-- affecting frame rate                                                          --> 
+		<event>every 2 seconds</event>
+		<condition>user hasProperty is_member equals 1</condition> 
+		<condition>user in 801 800 400 809 300 200 100</condition> 
+        <result>stampEarned 190</result> 
+	</achievement>
+	
+	<!-- ~~~ 330 - Party Puffle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+	
+	<!-- User walking Pink puffle and in Berg -->
+	<achievement name="Party Puffle" id="330.0">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 805</condition>
+		<condition>user wearing 751</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+
+	<!-- User walking Blue puffle and in Forest -->
+	<achievement name="Party Puffle" id="330.1">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 809</condition>
+		<condition>user wearing 750</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+
+	<!-- User walking Green puffle and in Beacon -->
+	<achievement name="Party Puffle" id="330.2">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 411</condition>
+		<condition>user wearing 753</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- User walking Black puffle and in Cave -->
+	<achievement name="Party Puffle" id="330.3">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 806</condition>
+		<condition>user wearing 752</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- User walking Purple puffle and in Dance -->
+	<achievement name="Party Puffle" id="330.4">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 120</condition>
+		<condition>user wearing 754</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+
+	<!-- User walking Red puffle and in Cove -->
+	<achievement name="Party Puffle" id="330.5">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 810</condition>
+		<condition>user wearing 755</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- User walking Yellow puffle and in Light -->
+	<achievement name="Party Puffle" id="330.6">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 410</condition>
+		<condition>user wearing 756</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+
+	<!-- User walking White puffle and in Mtn -->
+	<achievement name="Party Puffle" id="330.7">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 230</condition>
+		<condition>user wearing 757</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- User walking Orange puffle and in Box -->
+	<achievement name="Party Puffle" id="330.8">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 811</condition>
+		<condition>user wearing 758</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- User walking Brown puffle and in Lounge -->
+	<achievement name="Party Puffle" id="330.9">
+        <!-- This stamp is expires on Wed, 28 Mar 2012 21:00:00 GMT     --> 
+        <expiryDate>1332961200</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+        <condition>user in 121</condition>
+		<condition>user wearing 759</condition>
+        <result>stampEarned 330</result> 
+	</achievement>
+	
+	<!-- ~~~ 332 - Food Fight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+	
+	<achievement name="Food Fight" id="332">
+		<!-- This stamp is expires on 1/4/2017, 12:00:00 AM GMT-8:00     --> 
+        <expiryDate>1483516800</expiryDate>
+
+		<event>user snowballHit</event>	
+		<condition>user in 400</condition>
+		<result>stampEarned 332</result>
+	</achievement>
+ 
+    <!-- ~~~ 360 - Noble Knight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+
+	<achievement name="Noble Knight" id="360">
+        <!-- This stamp is expires on Wed, 30 May 2012 23:00:00 GMT     --> 
+        <expiryDate>1338418800</expiryDate> 
+        
+		<event>every 2 seconds</event> 
+		
+		<condition>user hasProperty is_member equals 1</condition>
+        
+        <!-- Shield hand items -->
+        <condition>user wearing 723 or 724 or 725 or 5028 or 5058 or 5097 or 5099 or 5098 or 5100 or 5095 or 5146 or 5147 or 15058 or 10724</condition> 
+		
+		<optionalCondition>user wearing 688 and 794</optionalCondition> <!-- Standard Knight --> 
+		<optionalCondition>user wearing 1052 and 4078</optionalCondition> <!-- Golden Knight --> 
+		<optionalCondition>user wearing 1146 and 4219</optionalCondition> <!-- Iron Knight --> 
+		<optionalCondition>user wearing 1253 and 4362</optionalCondition> <!-- White Knight -->		
+		<optionalCondition>user wearing 1398 and 4578</optionalCondition> <!-- Red Knight -->	
+		<optionalCondition>user wearing 4577</optionalCondition> <!-- Ruins Knight -->		
+		<result>stampEarned 360</result> 
+	</achievement>
+	
+	<!-- ~~~ 362 - Go Green ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+	
+	<achievement name="Go Green" id="362">
+		<!-- This stamp does not expire     --> 
+        <!--<expiryDate>1304017200</expiryDate> -->
+
+        <condition>user in 122</condition> 
+		<event>user snowballHit</event> 
+		<!-- User is in the right part of the clocktower. Numbers pulled from eco.fla:  --> 
+		<condition>event hasProperty x greaterThan 92</condition> 
+		<condition>event hasProperty x lessThan 203</condition> 
+		<condition>event hasProperty y greaterThan 48</condition> 
+		<condition>event hasProperty y lessThan 128</condition> 
+		<!-- Conditions up to this point must be met ten times - ie. ten snowball hits.   --> 
+		<condition>event occurs 10</condition> 
+		<result>stampEarned 362</result> 
+	</achievement>
+	
+	<!-- ~~~ 364 - Tree Mob ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+	
+	<achievement name="Tree Mob" id="364"> 
+		<!-- This stamp is expires on Wed, 05 Sep 2012 23:00:00 GMT     --> 
+        <!--<expiryDate>1346886000</expiryDate> -->
+
+        <!-- Break this condition down into a periodic check to reduce the chance of      --> 
+        <!-- affecting frame rate                                                         --> 
+        <event>every 2 seconds</event>
+        <condition>user hasProperty is_member equals 1</condition>
+        <condition>anyWithUser 10 penguins wearing 4147 or 14147 or 24238</condition> 
+        <result>stampEarned 364</result> 
+    </achievement>
+
+    <!-- ~~~ 440 - Snowboarder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
+	
+	<achievement name="Snowboarder" id="440">
+        <!-- This stamp is expires on 1/4/2017, 12:00:00 AM GMT-8:00     --> 
+        <expiryDate>1483516800</expiryDate>
         
 		<!-- Break this condition down into a periodic check to reduce the chance of      --> 
-		<!-- affecting frame rate                                                         --> 
-		<event>every 2 seconds</event> 
-        <condition>user hasProperty is_member equals 1</condition> 
-		<condition>user in 801 100 300 814 806 808 800 809 321 322 816 804</condition> 
-        <result>stampEarned 190</result> 
-	</achievement> 
- 
- 
+        <!-- affecting frame rate                                                         --> 
+        <event>every 2 seconds</event>
+        <condition>user wearing only 3083 or 3084 or 3085</condition>
+		<condition>user isOnFrame 26</condition>
+        <result>stampEarned 440</result> 
+    </achievement>
+
 </achievementDocument>
