@@ -25,3 +25,17 @@
 
 23:42:03 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
 
+02:03:57 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+23:53:29 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+23:57:07 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+23:58:14 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+23:58:45 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+19:25:54 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+19:26:46 [Fatal] > SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+

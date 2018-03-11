@@ -1,9 +1,0 @@
-Changelog
-	- Stamps now work
-	- Exiting minigames works
-	- Added Spy Phone
-	- Fixed being able to go into the HQ from the sports shop without being a secret agent
-	- Fixed the Everyday Phoning Facility music playing in the sports shop
-	- Fixed the map showing the stadium instead of the ice rink
-	- Updated the login screen to be retarded
-	- Proabbly some others idk

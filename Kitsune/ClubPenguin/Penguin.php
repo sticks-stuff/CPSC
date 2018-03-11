@@ -445,9 +445,6 @@ class Penguin {
 		$this->penguinglow = $playerArray["penguinglow"];
 		$this->snowballglow = $playerArray["snowballglow"];
 		$this->bubbleglow = $playerArray["bubbleglow"];
-		$this->mood = $playerArray["mood"];
-		$this->moodglow = $playerArray["moodglow"];
-		$this->moodcolor = $playerArray["moodcolor"];
 		$this->ringcolor = $playerArray["ringcolour"];
 		$this->chatglow = $playerArray["chatglow"];
 		$this->title = $playerArray["title"];

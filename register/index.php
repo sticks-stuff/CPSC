@@ -14,6 +14,10 @@
     <meta name="description" content="The best theme for CPPS, ICE. Built by AmusingThrone">
     <meta name="keywords" content="cpps,ice,club penguin,free,theme, cpb">
     <meta name="author" content="AmusingThrone">
+	<meta http-equiv=”Pragma” content=”no-cache”>
+	<meta http-equiv=”Expires” content=”-1″>
+	<meta http-equiv=”CACHE-CONTROL” content=”NO-CACHE”>
+	
     <link rel="stylesheet" href="https://bootswatch.com/paper/bootstrap.min.css">
 	<link rel="stylesheet" href="./assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="./sweetalert-master/dist/sweetalert.css">
@@ -101,6 +105,7 @@ class Registration extends PDO {
 
     private function addColors($penguinId) {
     	$insertStatement = $this->prepare("UPDATE `penguins` SET `Inventory` = '%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15' WHERE ID = :Penguin;");
+    	$insertStatement = $this->prepare("UPDATE `penguins` SET `Coins` = '500' WHERE ID = :Penguin;");
     	$insertStatement->bindValue(":Penguin", $penguinId);
     	$insertStatement->execute();
     	$insertStatement->closeCursor();
@@ -163,20 +168,8 @@ if(isset($_POST) && !empty($_POST)){
 			elseif(strlen($strUsername) == 0){
 				$error = sendError('error', 'You need to provide a name for your penguin.');
 			}
-			elseif(strlen($strUsername) < 4 || strlen($strUsername) > 21){
-				$error = $db->sendError('error', 'Your penguin name is either too short or too long.');
-			}
-			elseif(preg_match_all("/[0-9]/", $strUsername) > 21){
-				$error = $db->sendError('error', 'Your penguin name can only contain 21 numbers.');
-			}
-			elseif(!preg_match("/[A-z]/i", $strUsername)){
-				$error = $db->sendError('error', 'Penguin names must contain at least 1 letter.');
-			}
 			elseif(preg_match('/[^a-z0-9\s]/i', $strUsername)){
 				$error = $db->sendError('error', 'That username is not allowed.');
-			}
-			elseif(strlen($strPassword) < 4) {
-				$error = $db->sendError('error', "Your password is too short!");
 			}
 			elseif ($strUsername == "Rockhopper") {
 				$error = $db->sendError('error', 'There was an error!');

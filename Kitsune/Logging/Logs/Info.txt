@@ -1995,3 +1995,294 @@
 00:42:18 [Info] > Player disconnected
 00:54:20 [Info] > Removing empty database object
 00:54:20 [Info] > Player disconnected
+00:25:34 [Info] > Removing empty database object
+00:25:39 [Info] > Player disconnected
+00:27:02 [Info] > Removing empty database object
+00:27:02 [Info] > Player disconnected
+00:27:12 [Info] > Removing empty database object
+00:27:17 [Info] > Player disconnected
+00:31:25 [Info] > Removing empty database object
+00:31:25 [Info] > Player disconnected
+00:31:34 [Info] > Removing empty database object
+00:31:38 [Info] > Player disconnected
+00:32:33 [Info] > Removing empty database object
+00:32:33 [Info] > Player disconnected
+00:36:40 [Info] > Removing empty database object
+00:36:44 [Info] > Player disconnected
+00:36:57 [Info] > Removing empty database object
+00:36:58 [Info] > Player disconnected
+00:37:23 [Info] > Removing empty database object
+00:41:19 [Info] > Removing empty database object
+00:41:23 [Info] > Player disconnected
+00:56:25 [Info] > Removing empty database object
+00:56:25 [Info] > Player disconnected
+00:59:08 [Info] > Removing empty database object
+00:59:12 [Info] > Player disconnected
+01:00:27 [Info] > Removing empty database object
+01:00:27 [Info] > Player disconnected
+01:00:45 [Info] > Removing empty database object
+01:00:49 [Info] > Removing empty database object
+01:01:17 [Info] > Removing empty database object
+01:01:21 [Info] > Player disconnected
+01:13:23 [Info] > Removing empty database object
+01:13:23 [Info] > Player disconnected
+01:20:50 [Info] > Removing empty database object
+01:20:55 [Info] > Player disconnected
+01:32:14 [Info] > Removing empty database object
+01:32:14 [Info] > Player disconnected
+01:32:23 [Info] > Removing empty database object
+01:32:27 [Info] > Player disconnected
+01:43:29 [Info] > Removing empty database object
+01:43:29 [Info] > Player disconnected
+01:50:44 [Info] > Removing empty database object
+01:50:54 [Info] > Player disconnected
+01:52:08 [Info] > Removing empty database object
+01:52:08 [Info] > Player disconnected
+01:52:16 [Info] > Removing empty database object
+01:52:20 [Info] > Player disconnected
+01:52:35 [Info] > Removing empty database object
+01:52:35 [Info] > Player disconnected
+01:53:56 [Info] > Removing empty database object
+01:54:00 [Info] > Player disconnected
+01:59:50 [Info] > Removing empty database object
+01:59:50 [Info] > Player disconnected
+19:04:01 [Info] > Loaded 1 plugin(s): LoginNotice
+19:04:01 [Info] > Building table of banned URLs
+19:04:02 [Info] > Table of 61 bad URLs built
+19:04:02 [Info] > Pharse Chat Active!
+19:04:02 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:04:02 [Info] > Building table of banned URLs
+19:04:02 [Info] > Table of 61 bad URLs built
+19:04:02 [Info] > Pharse Chat Active!
+19:04:02 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:04:21 [Info] > Removing empty database object
+19:04:26 [Info] > Player disconnected
+19:18:27 [Info] > Removing empty database object
+19:18:27 [Info] > Player disconnected
+19:36:53 [Info] > Removing empty database object
+19:36:58 [Info] > Player disconnected
+19:37:29 [Info] > Removing empty database object
+19:37:29 [Info] > Player disconnected
+19:37:51 [Info] > Removing empty database object
+19:37:56 [Info] > Player disconnected
+19:39:09 [Info] > Removing empty database object
+19:39:09 [Info] > Player disconnected
+19:39:18 [Info] > Removing empty database object
+19:39:22 [Info] > Player disconnected
+19:42:08 [Info] > Removing empty database object
+19:42:08 [Info] > Player disconnected
+19:43:24 [Info] > Removing empty database object
+19:43:40 [Info] > Player disconnected
+19:46:21 [Info] > Removing empty database object
+19:46:21 [Info] > Player disconnected
+19:46:33 [Info] > Removing empty database object
+19:48:29 [Info] > Removing empty database object
+19:48:33 [Info] > Player disconnected
+19:56:53 [Info] > Removing empty database object
+19:56:53 [Info] > Player disconnected
+19:57:14 [Info] > Removing empty database object
+19:57:19 [Info] > Player disconnected
+20:02:34 [Info] > Removing empty database object
+20:02:34 [Info] > Player disconnected
+20:08:51 [Info] > Removing empty database object
+20:08:56 [Info] > Player disconnected
+20:13:48 [Info] > Removing empty database object
+20:13:48 [Info] > Player disconnected
+01:44:19 [Info] > Loaded 1 plugin(s): LoginNotice
+01:44:20 [Info] > Building table of banned URLs
+01:44:20 [Info] > Table of 61 bad URLs built
+01:44:20 [Info] > Pharse Chat Active!
+01:44:20 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+01:44:20 [Info] > Building table of banned URLs
+01:44:20 [Info] > Table of 61 bad URLs built
+01:44:20 [Info] > Pharse Chat Active!
+01:44:20 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+01:56:02 [Info] > Removing empty database object
+01:56:08 [Info] > Removing empty database object
+01:56:13 [Info] > Removing empty database object
+01:56:18 [Info] > Removing empty database object
+01:56:24 [Info] > Removing empty database object
+01:56:29 [Info] > Removing empty database object
+01:56:34 [Info] > Removing empty database object
+01:56:39 [Info] > Removing empty database object
+01:56:43 [Info] > Removing empty database object
+01:56:48 [Info] > Removing empty database object
+02:04:19 [Info] > Loaded 1 plugin(s): LoginNotice
+02:04:19 [Info] > Building table of banned URLs
+02:04:19 [Info] > Table of 61 bad URLs built
+02:04:19 [Info] > Pharse Chat Active!
+02:04:19 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+02:04:19 [Info] > Building table of banned URLs
+02:04:19 [Info] > Table of 61 bad URLs built
+02:04:19 [Info] > Pharse Chat Active!
+02:04:19 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+02:06:14 [Info] > Loaded 1 plugin(s): LoginNotice
+02:06:14 [Info] > Building table of banned URLs
+02:06:14 [Info] > Table of 61 bad URLs built
+02:06:14 [Info] > Pharse Chat Active!
+02:06:14 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+02:06:15 [Info] > Building table of banned URLs
+02:06:15 [Info] > Table of 61 bad URLs built
+02:06:15 [Info] > Pharse Chat Active!
+02:06:15 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+02:06:22 [Info] > Removing empty database object
+02:07:09 [Info] > Player disconnected
+02:11:06 [Info] > Removing empty database object
+02:11:06 [Info] > Player disconnected
+02:11:58 [Info] > Removing empty database object
+02:12:46 [Info] > Removing empty database object
+02:32:45 [Info] > Removing empty database object
+02:33:17 [Info] > Removing empty database object
+02:33:47 [Info] > Removing empty database object
+23:38:33 [Info] > Loaded 1 plugin(s): LoginNotice
+23:38:33 [Info] > Building table of banned URLs
+23:38:33 [Info] > Table of 61 bad URLs built
+23:38:33 [Info] > Pharse Chat Active!
+23:38:33 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+23:38:33 [Info] > Building table of banned URLs
+23:38:33 [Info] > Table of 61 bad URLs built
+23:38:33 [Info] > Pharse Chat Active!
+23:38:33 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+23:38:57 [Info] > Removing empty database object
+23:39:01 [Info] > Player disconnected
+23:47:42 [Info] > Removing empty database object
+23:47:42 [Info] > Player disconnected
+23:53:08 [Info] > Removing empty database object
+23:53:12 [Info] > Player disconnected
+23:59:19 [Info] > Loaded 1 plugin(s): LoginNotice
+23:59:19 [Info] > Building table of banned URLs
+23:59:19 [Info] > Table of 61 bad URLs built
+23:59:19 [Info] > Pharse Chat Active!
+23:59:19 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+23:59:19 [Info] > Building table of banned URLs
+23:59:19 [Info] > Table of 61 bad URLs built
+23:59:19 [Info] > Pharse Chat Active!
+23:59:19 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+23:59:32 [Info] > Removing empty database object
+23:59:37 [Info] > Player disconnected
+00:32:36 [Info] > Loaded 1 plugin(s): LoginNotice
+00:32:36 [Info] > Building table of banned URLs
+00:32:36 [Info] > Table of 61 bad URLs built
+00:32:36 [Info] > Pharse Chat Active!
+00:32:36 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:32:36 [Info] > Building table of banned URLs
+00:32:36 [Info] > Table of 61 bad URLs built
+00:32:36 [Info] > Pharse Chat Active!
+00:32:36 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:32:51 [Info] > Removing empty database object
+00:32:55 [Info] > Player disconnected
+00:34:57 [Info] > Loaded 1 plugin(s): LoginNotice
+00:34:57 [Info] > Building table of banned URLs
+00:34:57 [Info] > Table of 61 bad URLs built
+00:34:58 [Info] > Pharse Chat Active!
+00:34:58 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:34:58 [Info] > Building table of banned URLs
+00:34:58 [Info] > Table of 61 bad URLs built
+00:34:58 [Info] > Pharse Chat Active!
+00:34:58 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:35:11 [Info] > Removing empty database object
+00:35:55 [Info] > Player disconnected
+00:36:55 [Info] > Loaded 1 plugin(s): LoginNotice
+00:36:55 [Info] > Building table of banned URLs
+00:36:55 [Info] > Table of 61 bad URLs built
+00:36:55 [Info] > Pharse Chat Active!
+00:36:55 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:36:55 [Info] > Building table of banned URLs
+00:36:55 [Info] > Table of 61 bad URLs built
+00:36:55 [Info] > Pharse Chat Active!
+00:36:55 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:37:07 [Info] > Removing empty database object
+00:37:11 [Info] > Player disconnected
+00:37:25 [Info] > Removing empty database object
+00:37:25 [Info] > Player disconnected
+00:37:45 [Info] > Removing empty database object
+00:37:50 [Info] > Player disconnected
+00:48:52 [Info] > Removing empty database object
+00:48:52 [Info] > Player disconnected
+00:51:12 [Info] > Loaded 1 plugin(s): LoginNotice
+00:51:12 [Info] > Building table of banned URLs
+00:51:12 [Info] > Table of 61 bad URLs built
+00:51:12 [Info] > Pharse Chat Active!
+00:51:12 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:51:12 [Info] > Building table of banned URLs
+00:51:12 [Info] > Table of 61 bad URLs built
+00:51:12 [Info] > Pharse Chat Active!
+00:51:12 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+00:51:40 [Info] > Removing empty database object
+00:51:46 [Info] > Player disconnected
+01:07:47 [Info] > Removing empty database object
+01:07:47 [Info] > Player disconnected
+01:09:49 [Info] > Removing empty database object
+01:09:54 [Info] > Player disconnected
+01:18:39 [Info] > Removing empty database object
+01:18:39 [Info] > Player disconnected
+10:28:43 [Info] > Loaded 1 plugin(s): LoginNotice
+10:28:43 [Info] > Building table of banned URLs
+10:28:43 [Info] > Table of 61 bad URLs built
+10:28:43 [Info] > Pharse Chat Active!
+10:28:43 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+10:28:43 [Info] > Building table of banned URLs
+10:28:43 [Info] > Table of 61 bad URLs built
+10:28:43 [Info] > Pharse Chat Active!
+10:28:43 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+10:32:27 [Info] > Removing empty database object
+10:32:31 [Info] > Player disconnected
+10:37:42 [Info] > Removing empty database object
+10:37:42 [Info] > Player disconnected
+10:38:04 [Info] > Removing empty database object
+10:38:08 [Info] > Player disconnected
+19:09:55 [Info] > Loaded 1 plugin(s): LoginNotice
+19:09:56 [Info] > Building table of banned URLs
+19:09:56 [Info] > Table of 61 bad URLs built
+19:09:56 [Info] > Pharse Chat Active!
+19:09:56 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:09:56 [Info] > Building table of banned URLs
+19:09:56 [Info] > Table of 61 bad URLs built
+19:09:56 [Info] > Pharse Chat Active!
+19:09:56 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:10:23 [Info] > Removing empty database object
+19:10:27 [Info] > Player disconnected
+19:23:32 [Info] > Removing empty database object
+19:23:32 [Info] > Player disconnected
+19:23:41 [Info] > Loaded 1 plugin(s): LoginNotice
+19:23:41 [Info] > Building table of banned URLs
+19:23:41 [Info] > Table of 61 bad URLs built
+19:23:41 [Info] > Pharse Chat Active!
+19:23:41 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:23:41 [Info] > Building table of banned URLs
+19:23:41 [Info] > Table of 61 bad URLs built
+19:23:41 [Info] > Pharse Chat Active!
+19:23:41 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:24:05 [Info] > Removing empty database object
+19:24:10 [Info] > Player disconnected
+19:26:54 [Info] > Loaded 1 plugin(s): LoginNotice
+19:26:54 [Info] > Building table of banned URLs
+19:26:54 [Info] > Table of 61 bad URLs built
+19:26:54 [Info] > Pharse Chat Active!
+19:26:54 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:26:54 [Info] > Building table of banned URLs
+19:26:54 [Info] > Table of 61 bad URLs built
+19:26:54 [Info] > Pharse Chat Active!
+19:26:54 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+19:27:05 [Info] > Removing empty database object
+19:27:10 [Info] > Player disconnected
+19:28:15 [Info] > Removing empty database object
+19:28:15 [Info] > Player disconnected
+19:28:42 [Info] > Removing empty database object
+19:28:46 [Info] > Player disconnected
+19:30:36 [Info] > Removing empty database object
+19:30:36 [Info] > Player disconnected
+19:32:04 [Info] > Removing empty database object
+19:32:08 [Info] > Player disconnected
+19:39:13 [Info] > Removing empty database object
+19:39:13 [Info] > Player disconnected
+21:16:13 [Info] > Loaded 1 plugin(s): LoginNotice
+21:16:13 [Info] > Building table of banned URLs
+21:16:13 [Info] > Table of 61 bad URLs built
+21:16:13 [Info] > Pharse Chat Active!
+21:16:13 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+21:16:13 [Info] > Building table of banned URLs
+21:16:13 [Info] > Table of 61 bad URLs built
+21:16:13 [Info] > Pharse Chat Active!
+21:16:13 [Info] > Loaded 11 plugin(s): AntiAd, AntiSpam, AntiSwear, Commands, Dunce, LoginNotice, MascotStamps, Notifier, PatchedItems, PharseChat, PrivateChat
+21:16:31 [Info] > Removing empty database object
