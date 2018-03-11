@@ -14,6 +14,10 @@
     <meta name="description" content="The best theme for CPPS, ICE. Built by AmusingThrone">
     <meta name="keywords" content="cpps,ice,club penguin,free,theme, cpb">
     <meta name="author" content="AmusingThrone">
+	<meta http-equiv=”Pragma” content=”no-cache”>
+	<meta http-equiv=”Expires” content=”-1″>
+	<meta http-equiv=”CACHE-CONTROL” content=”NO-CACHE”>
+	
     <link rel="stylesheet" href="https://bootswatch.com/paper/bootstrap.min.css">
 	<link rel="stylesheet" href="./assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="./sweetalert-master/dist/sweetalert.css">
