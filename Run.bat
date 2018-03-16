@@ -1,3 +1,4 @@
 @echo off
-php Run.php
+
+C:\xampp\php\php.exe -f "C:\xampp\htdocs\run.php"
 pause
