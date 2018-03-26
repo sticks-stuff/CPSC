@@ -50,8 +50,8 @@ CREATE TABLE `igloos` (
 DROP TABLE IF EXISTS `penguins`;
 CREATE TABLE `penguins` (
   `ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `Username` char(16) NOT NULL,
-  `Nickname` char(16) NOT NULL,
+  `Username` char(255) NOT NULL,
+  `Nickname` char(255) NOT NULL,
   `Password` varchar(255) NOT NULL,
   `Avatar` tinyint(3) unsigned NOT NULL DEFAULT '0' COMMENT 'Dont think ID will go beyond 255',
   `AvatarAttributes` char(98) NOT NULL DEFAULT '{"spriteScale":100,"spriteSpeed":100,"ignoresBlockLayer":false,"invisible":false,"floating":false}',

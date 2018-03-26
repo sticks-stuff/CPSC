@@ -19,3 +19,9 @@ Beta 3 Changelog
 	- You now start with 500 coins instead of 5000
 	- Going Green Stamp works now
 	- (Hopefully) stopped chrome caching the webpage.
+
+Beta 3.1 Changelog
+	- Rockhopper stamp is no longer given on registration
+	- Explorer stamp is no longer given
+	- Infinte length usernames work
+	- The swear filter on registering has been removed
