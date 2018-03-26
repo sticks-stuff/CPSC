@@ -41,9 +41,7 @@
     </header>
 	
 <?php
-
 require("CensorWords.php");
-
 use Snipe\BanBuilder\CensorWords;
 class Registration extends PDO {
 	private $config = [
@@ -81,13 +79,12 @@ class Registration extends PDO {
 		$hash = password_hash($hash, PASSWORD_DEFAULT, [ 'cost' => 12 ]);
 		return $hash;
 	}
-
     public function addUser($username, $password, $color){
         $hashedPassword = strtoupper(md5($password));
         $staticKey = 'e4a2dbcca10a7246817a83cd';
         $ip = $_SERVER['REMOTE_ADDR'];
         $fancyPassword = $this->getLoginHash($hashedPassword, $staticKey);
-        $strQuery = "INSERT INTO penguins (ID, Username, Nickname, Password, RegistrationDate, Color, IP, Inventory, CareInventory, Igloos, Floors, Locations, Furniture, Stamps, Buddies, Ignores, Redeemed, transformation, Tracks, invalidLogins, LoginKey, ConfirmationHash, hackedItem) VALUES (NULL, :username, :username, :password, :TimeDate, :color, :ip, '', '', '1', '', '', '', '7', '', '', '', '', '', '', '', '', '')";
+        $strQuery = "INSERT INTO penguins (ID, Username, Nickname, Password, RegistrationDate, Color, IP, Inventory, CareInventory, Igloos, Floors, Locations, Furniture, Stamps, Buddies, Ignores, Redeemed, transformation, Tracks, invalidLogins, LoginKey, ConfirmationHash, hackedItem) VALUES (NULL, :username, :username, :password, :TimeDate, :color, :ip, '', '', '1', '', '', '', '', '', '', '', '', '', '', '', '', '')";
         $insertUser = $this->prepare($strQuery);
         $insertUser->bindValue(":username", $username);
         $insertUser->bindValue(":TimeDate", time());
@@ -96,21 +93,18 @@ class Registration extends PDO {
         $insertUser->bindValue(":ip", $ip);
         $insertUser->execute();
         $insertUser->closeCursor();
-
         $penguinId = $this->lastInsertId();
 		$this->addActiveIgloo($penguinId);
 		$this->addColors($penguinId);
 		return $penguinId;
     }
-
     private function addColors($penguinId) {
     	$insertStatement = $this->prepare("UPDATE `penguins` SET `Inventory` = '%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15' WHERE ID = :Penguin;");
     	$insertStatement = $this->prepare("UPDATE `penguins` SET `Coins` = '500' WHERE ID = :Penguin;");
     	$insertStatement->bindValue(":Penguin", $penguinId);
     	$insertStatement->execute();
     	$insertStatement->closeCursor();
-    }
-
+    }    
     private function addActiveIgloo($penguinId) {
 		$insertStatement = $this->prepare("INSERT INTO `igloos` (`ID`, `Owner`, `Furniture`) VALUES (NULL, :Owner, '');");
 		$insertStatement->bindValue(":Owner", $penguinId);
@@ -124,7 +118,6 @@ class Registration extends PDO {
         $setActiveIgloo->execute();
         $setActiveIgloo->closeCursor();
 	}
-
     public function getID($penguinId){
         $strQuery = 'SELECT ID FROM penguins WHERE ID = :ID';
         $getID = $this->prepare($strQuery);
@@ -133,7 +126,6 @@ class Registration extends PDO {
         $idExists = $getID->rowCount() > 0;
         return $idExists; 
     }
-
 	public function usernameExists($username){
 		$strQuery = 'SELECT Username FROM penguins WHERE Username = :username';
 		$checkUsername = $this->prepare($strQuery);
@@ -158,13 +150,6 @@ if(isset($_POST) && !empty($_POST)){
 				$error = $db->sendError('error', 'There was an error!');
 			}
 			//elseif(in_array($strUsername, $strBadNames)){
-			elseif(count($cen['matched']) > 0){
-				$strBad = "";
-				foreach ($cen['matched'] as $bad) {
-					$strBad .= "$bad ";
-				}
-				$error = $db->sendError('error', 'This username is not allowed: ' . $strBad);
-			}
 			elseif(strlen($strUsername) == 0){
 				$error = sendError('error', 'You need to provide a name for your penguin.');
 			}
@@ -250,10 +235,10 @@ if(isset($_POST) && !empty($_POST)){
 	}
 	?>
 	<div class="form-group">
-	  <input type="text" name="username" class="form-control" placeholder="Penguin Name" min="4" maxlength="21" />
+	  <input type="text" name="username" class="form-control" placeholder="Penguin Name" min="4" maxlength="255" />
 	</div>
 	<div class="form-group">
-		<input type="password" name="password" class="form-control" placeholder="Password" id="inputDefault" maxlength="1000" />
+		<input type="password" name="password" class="form-control" placeholder="Password" id="inputDefault" maxlength="255" />
 	</div>
 	
 	<br>

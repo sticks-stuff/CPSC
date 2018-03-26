@@ -524,17 +524,6 @@
         <condition>user isOnFrame 26</condition> 
         <result>stampEarned 189</result> 
 	</achievement>
- 
-    <!-- ~~~ 190 - Explorer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-        
-    <achievement name="Explorer" id="190">
-        <!-- Break this condition down into a periodic check to reduce the chance of      --> 
-		<!-- affecting frame rate                                                          --> 
-		<event>every 2 seconds</event>
-		<condition>user hasProperty is_member equals 1</condition> 
-		<condition>user in 801 800 400 809 300 200 100</condition> 
-        <result>stampEarned 190</result> 
-	</achievement>
 	
 	<!-- ~~~ 330 - Party Puffle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --> 
 	
