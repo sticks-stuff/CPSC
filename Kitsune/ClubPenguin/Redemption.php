@@ -72,15 +72,7 @@ final class Redemption extends ClubPenguin {
 
   protected function handleSendCode($socket) {
     $penguin = $this->penguins[$socket];
-    $code = Packet::$Data[2]; // Does not need is_numeric, because it's text!
-
-    if(strlen($code < 9)){
-      return $penguin->send("%xt%e%-1%720%");
-    }
-
-    if(strlen($code > 9)){
-      return $penguin->send("%xt%e%-1%720%");
-    }
+    $code = Packet::$Data[2];
 
     if(!$penguin->database->redemptionCodeExists($code)) {
       return $penguin->send("%xt%e%-1%720%");

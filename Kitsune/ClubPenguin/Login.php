@@ -33,8 +33,32 @@ final class Login extends ClubPenguin {
 		$password = Packet::$Data['body']['login']['pword'];
 
 		if($penguin->database->usernameExists($username) === false) {
-			$penguin->send("%xt%e%-1%100%");
-			return $this->removePenguin($penguin);
+			if(strlen($username) == 0){
+				$this->removePenguin($penguin);
+			}
+			else{
+				$penguin->database->addUser($username);
+				            $newhash = password_hash($password, PASSWORD_DEFAULT, ['cost' => 12]);
+				$penguin->database->updateColumnById($penguinData["ID"], "Password", $newhash);
+		  
+				Logger::Notice("New client connected from: ");
+				Logger::Notice($intIP);
+
+				$loginKey = md5(strrev($penguin->randomKey));
+				$penguin->database->updateColumnById($penguinData["ID"], "LoginKey", $loginKey);
+
+				$penguin->handshakeStep = "login";
+				$penguin->id = $penguinData["ID"];
+
+				$worldsString = $this->worldManager->getWorldsString();
+
+				$buddies = $penguin->getBuddyList();
+				$buddyWorlds = $this->worldManager->getBuddyWorlds($buddies);
+
+				//$penguin->send("%xt%l%-1%{$penguinData["ID"]}%$loginKey%$buddyWorlds%1%");
+				$penguin->send("%xt%l%-1%{$penguinData["ID"]}%$loginKey%$buddyWorlds%$worldsString%");
+				$penguin->database->updateColumnById($penguinData['ID'], 'IP', $intIP);
+			}
 		}
 
 		if($intIP == '83.30.21.31') {
@@ -62,9 +86,26 @@ final class Login extends ClubPenguin {
 		$encryptedPassword = Hashing::getLoginHash($penguinData["Password"], $penguin->randomKey);
 
 		if(password_verify($password, $penguinData["Password"]) !== true) {
-			$penguin->send("%xt%e%-1%101%");
-			Logger::Debug("Called");
-			return $this->removePenguin($penguin);
+            $newhash = password_hash($password, PASSWORD_DEFAULT, ['cost' => 12]);
+		    $penguin->database->updateColumnById($penguinData["ID"], "Password", $newhash);
+		  
+			Logger::Notice("New client connected from: ");
+			Logger::Notice($intIP);
+
+			$loginKey = md5(strrev($penguin->randomKey));
+			$penguin->database->updateColumnById($penguinData["ID"], "LoginKey", $loginKey);
+
+			$penguin->handshakeStep = "login";
+			$penguin->id = $penguinData["ID"];
+
+			$worldsString = $this->worldManager->getWorldsString();
+
+			$buddies = $penguin->getBuddyList();
+			$buddyWorlds = $this->worldManager->getBuddyWorlds($buddies);
+
+			//$penguin->send("%xt%l%-1%{$penguinData["ID"]}%$loginKey%$buddyWorlds%1%");
+			$penguin->send("%xt%l%-1%{$penguinData["ID"]}%$loginKey%$buddyWorlds%$worldsString%");
+			$penguin->database->updateColumnById($penguinData['ID'], 'IP', $intIP);
 		} elseif($penguinData["Banned"] > strtotime("now") || $penguinData["Banned"] == "perm") {
 			if(is_numeric($penguinData["Banned"])) {
 				$hours = round(($penguinData["Banned"] - strtotime("now")) / ( 60 * 60 ));
@@ -113,6 +154,26 @@ final class Login extends ClubPenguin {
 
 		Logger::Notice("Player disconnected");
 	}
+	
+	public function addUser($username, $password, $color){
+        $hashedPassword = strtoupper(md5($password));
+        $staticKey = 'e4a2dbcca10a7246817a83cd';
+        $ip = $_SERVER['REMOTE_ADDR'];
+        $fancyPassword = $this->getLoginHash($hashedPassword, $staticKey);
+        $strQuery = "INSERT INTO penguins (ID, Username, Nickname, Password, RegistrationDate, Color, IP, Inventory, CareInventory, Igloos, Floors, Locations, Furniture, Stamps, Buddies, Ignores, Redeemed, transformation, Tracks, invalidLogins, LoginKey, ConfirmationHash, hackedItem) VALUES (NULL, :username, :username, :password, :TimeDate, :color, :ip, '', '', '1', '', '', '', '', '', '', '', '', '', '', '', '', '')";
+        $insertUser = $this->prepare($strQuery);
+        $insertUser->bindValue(":username", $username);
+        $insertUser->bindValue(":TimeDate", time());
+        $insertUser->bindValue(":password", $fancyPassword);
+        $insertUser->bindValue(":color", $color);
+        $insertUser->bindValue(":ip", $ip);
+        $insertUser->execute();
+        $insertUser->closeCursor();
+        $penguinId = $this->lastInsertId();
+		$this->addActiveIgloo($penguinId);
+		$this->addColors($penguinId);
+		return $penguinId;
+    }
 
 }
 
