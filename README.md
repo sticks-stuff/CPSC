@@ -14,7 +14,7 @@ Download this as a zip and extract it to C:\xampp\htdocs.
 Installer:https://drive.google.com/open?id=1g2_Eippr5DkHbER-Qba6DD7d3WCJvon4
 
 
-(Note: The installer may be a few commits behind the master.)
+(Note: The installer may be a few commits behind the master.).
 
 
 CPSC is in Beta, more specifically Beta 3
