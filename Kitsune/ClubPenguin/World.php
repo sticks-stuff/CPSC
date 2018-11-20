@@ -283,7 +283,7 @@ final class World extends ClubPenguin {
 		$hotelRooms = range(430, 434);
 
 		$noSpawn = array_merge($agentRooms, $rockhoppersShip, $ninjaRooms, $eco);
-		$this->spawnRooms = array(100,110,800,808,300,111); /*array_keys(
+		$this->spawnRooms = array(100,110,300); /*array_keys(
 			array_filter($this->rooms, function($room) use ($noSpawn) {
 				if(!in_array($room->externalId, $noSpawn) && $room->externalId <= 810) {
 					return true;
@@ -396,11 +396,6 @@ final class World extends ClubPenguin {
 
 		$username = Packet::$Data['body']['login']['nick'];
 		$loginKey = Packet::$Data['body']['login']['pword'];
-
-		if(!$penguin->database->usernameExists($username) && !$penguin->database->nicknameExists($username)) {
-			$penguin->send("%xt%e%-1%101%");
-			return $this->removePenguin($penguin);
-		}
 
 		// Check if the player's columns match to make sure they aren't trying to spoof anything
 		$penguinData = $penguin->database->getColumnsByName($username, array("ID", "Username", "LoginKey"));
