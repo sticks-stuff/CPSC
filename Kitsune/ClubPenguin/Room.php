@@ -2,6 +2,8 @@
 
 namespace Kitsune\ClubPenguin;
 
+use Kitsune\Logging\Logger;
+
 class Room {
 
 	public $penguins = array();
@@ -41,6 +43,8 @@ class Room {
 		}
 			
 		$penguin->room = $this;
+		$myText = print_r($this->externalId,true);
+		Logger::Notice("Room is $myText");
 	}
 
 	public function remove($penguin) {
