@@ -23,9 +23,5 @@ Beta 2: https://drive.google.com/open?id=1g2_Eippr5DkHbER-Qba6DD7d3WCJvon4
 
 Beta 1:https://drive.google.com/open?id=1PEophHubpKOGesErZYtuzmScPPn7Aos1
 
-
-[16-bit Panda made an exellent tutorial on how to get CPSC up and running](http://16bitpanda.com/random/cpsctutorial.html)
-
-
 For more info you can message @Thestickman391#0391 on Discord or join the [CPSC discord server](https://discord.gg/tGDZeyK)
 
