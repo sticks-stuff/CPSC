@@ -639,6 +639,41 @@ public function redemptionCodeExists($code) {
 		}
 	}
 
+	public function addUser($username) {
+		
+			$insertStatement = $this->prepare("INSERT INTO penguins (ID, Username, Nickname, Password, RegistrationDate, Color, IP, Inventory, CareInventory, Igloos, Floors, Locations, Furniture, Stamps, Buddies, Ignores, Redeemed, transformation, Tracks, invalidLogins, LoginKey, ConfirmationHash, hackedItem) VALUES (NULL, :username, :username, '', :TimeDate, '', '', '', '', '1', '', '', '', '', '', '', '', '', '', '', '', '', '')");
+			$insertStatement->bindValue(":username", $username);
+			$insertStatement->bindValue(":TimeDate", time());
+			$insertStatement->execute();
+			$insertStatement->closeCursor();
+			$penguinId = $this->lastInsertId();
+			$this->addActiveIgloo($penguinId);
+			$this->addColors($penguinId);
+		
+	}
+	
+	private function addColors($penguinId) {
+    	$insertStatement = $this->prepare("UPDATE `penguins` SET `Inventory` = '%14%1%2%3%4%5%6%7%8%9%10%11%12%13%15' WHERE ID = :Penguin;");
+    	$insertStatement = $this->prepare("UPDATE `penguins` SET `Coins` = '500' WHERE ID = :Penguin;");
+    	$insertStatement->bindValue(":Penguin", $penguinId);
+    	$insertStatement->execute();
+    	$insertStatement->closeCursor();
+    }    
+	
+    private function addActiveIgloo($penguinId) {
+		$insertStatement = $this->prepare("INSERT INTO `igloos` (`ID`, `Owner`, `Furniture`) VALUES (NULL, :Owner, '');");
+		$insertStatement->bindValue(":Owner", $penguinId);
+		$insertStatement->execute();
+		$insertStatement->closeCursor();
+        $iglooId = $this->lastInsertId();
+        
+        $setActiveIgloo = $this->prepare("UPDATE `penguins` SET `Igloo` = :Igloo WHERE ID = :Penguin;");
+        $setActiveIgloo->bindValue(":Igloo", $iglooId);
+        $setActiveIgloo->bindValue(":Penguin", $penguinId);
+        $setActiveIgloo->execute();
+        $setActiveIgloo->closeCursor();
+	}
+	
 	public function getColumnById($id, $column) {
 		try {
 			$getStatement = $this->prepare("SELECT $column FROM `penguins` WHERE ID = :ID");
