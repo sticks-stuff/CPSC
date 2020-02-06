@@ -25,3 +25,32 @@ Beta 3.1 Changelog
 	- Explorer stamp is no longer given
 	- Infinte length usernames work
 	- The swear filter on registering has been removed
+
+Beta 4 Changelog
+	-Fixed Pizzatron Stamps
+	-Fixed JPA
+	-Login Changes
+	-Removed epfinitiated.swf as its unused
+	-Removing a lot of unnecessary files
+	-Fixed the white puffle being modern in the igloo
+	-Removed emotes.swf as its unused
+	-Removed Anti-Spam as this caused people to get kicked for simply clicking walk too many times or holding D or W
+	-Fixed Tour Guide test requiring your penguin to be at least 45 days old
+	-Fixed some icon and clothing releated bugs
+	-Fixed sharks and crabs not appearing
+	-Fixed broken Blue Puffle and Black Puffle levels
+	-Updated spawn rooms to match CPR
+	-Removed useless config files and added puffle launch support
+	-Updated login screen to redirect to new cpsc discord
+	-Added Beach and Ski Village to spawn rooms to match CPR
+	-Updated executable to take you to http://localhost/play/load.swf rather than http://localhost/
+	-Updated Room.php to output current room in preparation for Discord Rich Presence intergration
+	-Updated login screen to remove password
+	-Removed idle kicking and removed kicking for multiple connections
+	-Fixed missing Silver Surfboard
+	-Made the spy phone actually work
+	-Updated interface.swf to fix fonts
+	-Added a test html file that loads the load.swf in a big window
+	-Updated mission end screen to pre-2011 one to match CPR
+	-Fixed Soda Seas not starting
+	-Bug fixes
