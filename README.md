@@ -1,5 +1,5 @@
 # CPSC
-Club Penguin Singleplayer Client Beta 3.1
+Club Penguin Singleplayer Client Beta 4
 
 This is a singleplayer client for Club Penguin, designed for speedrunning.
 It requires this version of XAMPP and it must be installed before installing CPSC.
