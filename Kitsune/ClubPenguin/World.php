@@ -283,7 +283,7 @@ final class World extends ClubPenguin {
 		$hotelRooms = range(430, 434);
 
 		$noSpawn = array_merge($agentRooms, $rockhoppersShip, $ninjaRooms, $eco);
-		$this->spawnRooms = array(100,110,300,400,200); /*array_keys(
+		$this->spawnRooms = array(100); /*array_keys(
 			array_filter($this->rooms, function($room) use ($noSpawn) {
 				if(!in_array($room->externalId, $noSpawn) && $room->externalId <= 810) {
 					return true;
