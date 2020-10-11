@@ -11,7 +11,7 @@ https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-insta
 Download this as a zip and extract it to C:\xampp\htdocs.
 
 
-CPSC is in Beta, more specifically Beta 3
+CPSC is in Beta, more specifically Beta 4
 It uses a lot of code from Kitsune (https://github.com/widd/kitsune) and Zaseth's modified Kitsune (https://github.com/Zaseth/KITSUNE-MODIFIED)
 
 
