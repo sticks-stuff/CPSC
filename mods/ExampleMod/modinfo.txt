@@ -1,0 +1,4 @@
+name=Example Mod 3000
+author=Gary
+version=3000
+description=Example description
