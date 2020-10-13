@@ -21,3 +21,4 @@ servers.ibd
 tracks.frm
 tracks.ibd
 /.vs
+/mysql/data
