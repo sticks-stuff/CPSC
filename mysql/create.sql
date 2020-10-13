@@ -1,3 +1,3 @@
 CREATE DATABASE kitsune;
 use kitsune;
-source kitsune.sql
+source ./mysql/kitsune.sql
