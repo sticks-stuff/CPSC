@@ -3,7 +3,7 @@ Club Penguin Singleplayer Client
 
 This is a singleplayer client for Club Penguin, designed for speedrunning.
 
-Download this as a zip and extract it then run `run.bat`.
+Download this as a zip and extract it then run `start.bat`.
 
 CPSC uses a lot of code from Kitsune (https://github.com/widd/kitsune) and Zaseth's modified Kitsune (https://github.com/Zaseth/KITSUNE-MODIFIED)
 
