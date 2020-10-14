@@ -1,4 +1,4 @@
-name=Example Mod 3000
+name=Gary's Mod
 author=Gary
 version=3000
-description=Example description
+description=Replaces penguin with green puffle
