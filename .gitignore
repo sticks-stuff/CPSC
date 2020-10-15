@@ -23,5 +23,6 @@ tracks.ibd
 /.vs
 mysql/data/*.*
 mysql/data/kitsune/
-server/Kitsune/Logging/
+server/Kitsune/Logging/Logs/
 vanilla_backups/
+crumbs/

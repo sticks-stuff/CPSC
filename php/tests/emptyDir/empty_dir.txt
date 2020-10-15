@@ -1,2 +1,0 @@
-Force PEAR_PackageFileManager2 to create empty dir.
-You can remove this file safely after PHP_CompatInfo install

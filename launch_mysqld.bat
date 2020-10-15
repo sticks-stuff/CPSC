@@ -1,1 +1,1 @@
-mysql\bin\mysqld --standalone --console
+mysql\bin\mysqld --defaults-extra-file=.\mysql\config\my.ini --console
