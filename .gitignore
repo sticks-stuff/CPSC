@@ -21,4 +21,5 @@ servers.ibd
 tracks.frm
 tracks.ibd
 /.vs
-/mysql/data
+mysql/data/
+server/Kitsune/Logging/
