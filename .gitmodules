@@ -1,0 +1,3 @@
+[submodule "mods/src"]
+	path = mods/src
+	url = https://github.com/Olivercomet/CPSC-Mod-Manager
