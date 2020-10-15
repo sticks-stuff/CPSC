@@ -21,5 +21,7 @@ servers.ibd
 tracks.frm
 tracks.ibd
 /.vs
-mysql/data/
+mysql/data/*.*
+mysql/data/kitsune/
 server/Kitsune/Logging/
+vaniilla_backups/
