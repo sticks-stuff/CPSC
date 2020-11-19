@@ -11,7 +11,7 @@ final class Commands extends Plugin {
 	//public $dependencies = array("PatchedItems" => "loadPatchedItems");
 	public $dependencies = array(
 		"PatchedItems" => "loadPatchedItems",
-		"AntiAd" => "loadAntiAd"
+		//"AntiAd" => "loadAntiAd"
 	);
 	
 	public $worldHandlers = array(
@@ -76,7 +76,7 @@ final class Commands extends Plugin {
 	private $mutedPenguins = array();
 	
 	private $patchedItems;
-    private $antiAd;
+    //private $antiAd;
 
     public $partyServicePacket = '%xt%partyservice%2%{"partySettings":{"partyIglooItems":[0],"numOfDaysInParty":14,"unlockDayIndex":14},"questSettingList":[{"roomIds":[800,809,300,100],"questItemIndex":0,"unlockDay":0,"memberItemIds":[1967,24245],"nonmemberItemId":5509},{"roomIds":[800,809,300,801,100],"questItemIndex":1,"unlockDay":0,"memberItemIds":[1965,24243],"nonmemberItemId":5508},{"roomIds":[800,809,801],"questItemIndex":2,"unlockDay":1,"memberItemIds":[1968,24246],"nonmemberItemId":5510},{"roomIds":[800,801,300],"questItemIndex":3,"unlockDay":1,"memberItemIds":[1969,24247],"nonmemberItemId":5516},{"roomIds":[891],"questItemIndex":4,"unlockDay":2,"memberItemIds":[1966,24244],"nonmemberItemId":9291}],"swordsList":[{"rewardId":0,"points":20,"itemId":2327,"type":"FURNITURE"},{"rewardId":1,"points":50,"itemId":5512,"type":"PAPER_ITEM"},{"rewardId":2,"points":100,"itemId":5515,"type":"PAPER_ITEM"},{"rewardId":3,"points":200,"itemId":5513,"type":"PAPER_ITEM"},{"rewardId":4,"points":350,"itemId":83,"type":"IGLOO"},{"rewardId":5,"points":600,"itemId":0,"type":"PAPER_ITEM"}],"kananLightsaber":{"unlockDay":2,"itemId":5511},"inquisitorPrizeItems":{"memberItemId":[24248,5514],"nonMemberItemId":1970}}%';
 	
@@ -92,9 +92,9 @@ final class Commands extends Plugin {
 		$this->patchedItems = $this->server->loadedPlugins["PatchedItems"];
 	}
 
-	public function loadAntiAd() {
-		$this->antiAd = $this->server->loadedPlugins["AntiAd"];
-	}
+	//public function loadAntiAd() {
+	//	$this->antiAd = $this->server->loadedPlugins["AntiAd"];
+	//}
 
 	public function handleRefreshClient($penguin) {
         $penguin->room->refreshRoom($penguin);

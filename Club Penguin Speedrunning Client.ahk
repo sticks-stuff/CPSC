@@ -264,7 +264,6 @@ RegRead, firewall_status, HKLM, SYSTEM\ControlSet001\Services\SharedAccess\Param
 If (!InStr(firewall_status, "Enabled"))
 	RegWrite, REG_SZ, HKLM, SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List, [C:\xampp\php\php.exe], [C:\xampp\php\php.exe]:*:Enabled:[PHP]
 
-FileCopy, C:\xampp\htdocs\index.html.copy, C:\xampp\htdocs\index.html, 1
 FileDelete, C:\xampp\htdocs\index.php
 FileCopy, C:\xampp\htdocs\php.ini, C:\xampp\php, 1
 
@@ -272,7 +271,7 @@ FileCopy, C:\xampp\htdocs\php.ini, C:\xampp\php, 1
 
 Menu, Tray, Icon, %A_WorkingDir%\favicon.ico,,1
 Run, run.vbs
-Run, http://localhost/play/load.swf
+Run, http://localhost/
 
 OnExit, ExitSub  
 return
