@@ -271,7 +271,7 @@ FileCopy, C:\xampp\htdocs\php.ini, C:\xampp\php, 1
 
 Menu, Tray, Icon, %A_WorkingDir%\favicon.ico,,1
 Run, run.vbs
-Run, http://localhost/play/load.swf
+Run, http://localhost/
 
 OnExit, ExitSub  
 return
