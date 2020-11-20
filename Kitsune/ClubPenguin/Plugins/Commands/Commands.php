@@ -1,4 +1,3 @@
-lol
 <?php
 
 namespace Kitsune\ClubPenguin\Plugins\Commands;
