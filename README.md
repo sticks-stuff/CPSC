@@ -24,8 +24,8 @@ Beta 2: https://drive.google.com/open?id=1g2_Eippr5DkHbER-Qba6DD7d3WCJvon4
 
 Beta 1:https://drive.google.com/open?id=1PEophHubpKOGesErZYtuzmScPPn7Aos1
 
-[Installation guide](https://pastebin.com/raw/BEKLhdc1)
+[Installation guide](https://docs.google.com/document/d/1jd32zcQCenYxdTQTC2gtdsRHlQTuhGpfNy6a_izKJic/edit?usp=sharing)
 
-[Guia de instalação em português](https://pastebin.com/raw/P3dYCLiP)
+[(PT-BR) Guia de instalação em português](https://docs.google.com/document/d/1QgZSH750l1DzHLfvZ5LEdIJO4wxiGeZ_Cy589qsM9eo/edit?usp=sharing)
 
 For more info you can message @Thestickman391#0391 on Discord or join the [CPSC discord server](https://discord.gg/tGDZeyK)
