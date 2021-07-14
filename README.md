@@ -2,12 +2,12 @@
 
 ##Club Penguin Singleplayer Client Beta 4
 
-CPSC is a singleplayer client for Club Penguin, designed for speedrunning.
+CPSC is a singleplayer client for Club Penguin, designed for speedrunning.  
 For more info you can join the [CPSC discord server](https://discord.gg/tGDZeyK)
 
 ##Usage
 
-CPSC requires [this version of XAMPP](https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe) which must be installed before installing CPSC.
+CPSC requires [this version of XAMPP](https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe) which must be installed before installing CPSC.  
 Download this repository as a zip and extract the contents of the folder into C:\xampp\htdocs.
 
 ##Guides

@@ -1,3 +1,8 @@
+@font-face {
+	font-family: Ubuntu;
+	src: url(Ubuntu-Regular.ttf);
+}
+
 body {
 	text-align: center;
 	background-color: black;
@@ -5,13 +10,13 @@ body {
 }
 
 button {
-    color: white;
+	color: white;
 	background-color: black;
-    border: none;
+	border: none;
 }
 
 button:hover {
-    color: rgb(19, 161, 14);
+	color: rgb(12, 161, 14);
 }
 
 header {
@@ -25,11 +30,16 @@ img {
 
 li {
 	float: right;
-	padding: 20px 40px;
-	font-size: 16px;
+	padding: 18px 40px;
+	font-size: 0px;
 	text-align: center;
 	list-style-type: none;
 	margin: 0;
+}
+
+button {
+	font-family: Ubuntu;
+	font-size: 16px;
 }
 
 object {
