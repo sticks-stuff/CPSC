@@ -26,3 +26,7 @@ mysql/data/kitsune/
 server/Kitsune/Logging/Logs/
 vanilla_backups/
 crumbs/
+/mysql/data/aria_log_control
+/mysql/data/ib_logfile0
+/mysql/data/ib_logfile1
+/mysql/data/ibdata1
