@@ -121,7 +121,7 @@
   "display_name": "Sports Shop",
   "music_id": 0,
   "is_member": 0,
-  "path": "",
+  "path": "sport.swf",
   "max_users": 80,
   "jump_enabled": false,
   "jump_disabled": true,
