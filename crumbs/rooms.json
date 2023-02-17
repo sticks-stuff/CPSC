@@ -267,6 +267,19 @@
   "jump_disabled": true,
   "required_item": null,
   "short_name": "Dojo Front"
+ "322": {
+  "room_id": 322,
+  "room_key": "dojohide",
+  "name": "Dojo Hide",
+  "display_name": "Dojo Hide",
+  "music_id": 1166,
+  "is_member": 0,
+  "path": "dojohide.swf",
+  "max_users": 80,
+  "jump_enabled": false,
+  "jump_disabled": true,
+  "required_item": 821,
+  "short_name": "Dojo Hide"
  },
  "323": {
   "room_id": 323,
