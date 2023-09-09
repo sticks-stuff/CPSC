@@ -5,7 +5,7 @@ This is a singleplayer client for Club Penguin, designed for speedrunning.
 It requires this version of XAMPP and it must be installed before installing CPSC.
 
 
-https://www.apachefriends.org/xampp-files/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.33/xampp-win32-5.6.33-0-VC11-installer.exe/download
 
 
 Download this as a zip and extract the contents of the folder into C:\xampp\htdocs.
